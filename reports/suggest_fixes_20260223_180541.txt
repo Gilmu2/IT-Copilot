@@ -1,0 +1,19 @@
+## Immediate Actions
+1) **Triage the 269 non-compliant Windows devices and map them to the specific compliance policy failures (e.g., update, Defender, device restrictions), then remediate the top failure cause first.**  
+- **Owner:** Self-remediation by IT engineer (reporting + targeted fixes), escalate only if failures are due to security baselines requiring exceptions  
+- **Confidence:** High
+
+2) **Investigate and resolve the 40 “unknown” devices (not reporting / not evaluated) by checking Intune enrollment status and last check-in, then re-enroll or retire stale records.**  
+- **Owner:** Self-remediation by IT engineer  
+- **Confidence:** High
+
+## Self-Remediation
+- **Validate assignments and health of update controls already present (e.g., “CP_Update_policy” and the “Windows Autopatch Update Policy …” rings) to ensure Windows devices are actually targeted and receiving updates.**  
+  - **Confidence:** Medium
+
+- **Review configuration policy conflicts/overlaps among Windows hardening policies (e.g., “MDM Wins Over GPO”, “Prevent User Change Lan Configurations”, “CP_DeviceRestriction”, “AppLocker Policy - Block Browsers”) and resolve any conflicting settings that can drive non-compliance.**  
+  - **Confidence:** Medium
+
+## Escalation Required
+- **If non-compliance is driven by security controls (e.g., AppLocker browser blocking or “Edge policy to block use of browsers where Purview DLP protections for unmanaged AI apps don’t apply”), coordinate with the Security team on exception handling or phased rollout rather than weakening the policy.**  
+  - **Confidence:** Medium

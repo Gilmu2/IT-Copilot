@@ -1,0 +1,30 @@
+## Onboarding a New Device
+1. In Intune, confirm the target platform matches the current fleet mix (Windows is the standard: 474/500; macOS is limited: 5; Linux: 21). Choose the enrollment approach accordingly (Windows-focused onboarding is the default in this tenant).
+2. For new Windows devices, enroll using Windows Autopilot and ensure the enrollment experience policy **“Skip User ESP during Windows Autopilot Enrollment”** is applied to the intended device/user group.
+3. After enrollment completes, verify the device is receiving baseline configuration profiles by checking assignment/application status for key profiles such as **“MDM Wins Over GPO”**, **“CP_DeviceRestriction”**, **“CP_Update_policy”**, and **“Intune Telemetry Data Collection.”**
+4. Confirm update ring targeting is correct by validating the device is in exactly one appropriate Windows Autopatch profile (e.g., **“Windows Autopatch Update Policy - Windows Autopatch - Ring1/Ring2/Ring3/Last/Test”** or the AVD/VDI equivalents where applicable).
+5. Validate security posture policies as applicable by confirming relevant Defender profiles are applied (e.g., **“Defender - Network Filter”**, **“Defender - Full Disk Access”** , and other **Defender -** profiles present in the tenant).
+6. After first sync, check device compliance state; if it lands in **Unknown** (40 devices currently), force a sync and confirm the device successfully evaluates compliance.
+
+## Responding to a Non-Compliant Device
+1. In Intune, filter Devices by **Non-compliant** and prioritize by OS; in this environment the non-compliance is currently concentrated on **Windows (270 non-compliant Windows devices)**.
+2. Open an affected Windows device and review which policies are failing or not applied; pay particular attention to update and restriction profiles used broadly here: **“CP_Update_policy”**, the relevant **Windows Autopatch Update Policy** ring, and **“CP_DeviceRestriction.”**
+3. Trigger a device sync and re-check compliance status. If the device remains non-compliant, verify it is targeted to the correct Autopatch ring profile (Ring1/Ring2/Ring3/Last/Test, or AVD/VDI variants) and not missing assignment.
+4. If the non-compliance is related to endpoint protection controls, confirm applicable Defender configuration profiles are applying successfully (e.g., **“Defender - Network Filter”**, **“Defender - Background services”**, **“Defender - Bluetooth permissions”**, etc.) and remediate assignment conflicts by correcting group targeting.
+5. If the device is blocked by browsing/DLP restrictions, confirm whether policies like **“AppLocker Policy - Block Browsers”** and **“Edge policy to block use of browsers where Purview DLP protections for unmanaged AI apps don’t apply”** are required for that device group; adjust targeting only if the device is mis-scoped.
+6. Escalate devices that persist in non-compliance after reassignment/sync to rebuild/re-enroll via Autopilot (especially if key baseline profiles like **“MDM Wins Over GPO”** are not applying), and document the ring/policy scope that should have applied.
+
+## Deploying a New App
+1. Identify the correct app packaging type based on what this tenant primarily uses: **Win32 LOB apps dominate (137/155)**, with smaller counts of **iOS Store apps (15)** and minimal **managed iOS LOB (1)**, **Android Store (1)**, and **macOS Office suite (1)**.
+2. Add the application using the matching Intune app type (prefer **Win32** for Windows deployments unless there is an explicit need for a Store-based workflow). Ensure naming and metadata align with existing Win32 app conventions (since that is the predominant catalog).
+3. Assign the app to the appropriate device/user groups based on the platform mix: deploy primarily to Windows unless you explicitly target the smaller macOS (5) or mobile app populations reflected by the iOS/Android app types present.
+4. Validate the app does not conflict with existing restriction policies in this environment—especially **“AppLocker Policy - Block Browsers”** and the **Edge browser-blocking/DLP** policy—before broad deployment (e.g., browser-related utilities may be blocked by design).
+5. Monitor deployment status post-assignment and confirm install success on a small Windows pilot set first (align pilot with existing **Autopatch Test** vs. production ring approach if your operational model mirrors the ring structure present in configuration).
+
+## Reviewing Configuration Policies
+1. Review the full set of **33 configuration policies** and start by grouping them by function based on what exists here: device restrictions (**CP_DeviceRestriction**, **Prevent User Change Lan Configurations**), updates (**CP_Update_policy** and multiple **Windows Autopatch Update Policy** rings for standard/AVD/VDI), security/Defender (multiple **Defender -** profiles), and enrollment behavior (**Skip User ESP during Windows Autopilot Enrollment**).
+2. Validate ring strategy and scope: ensure devices are not targeted by multiple conflicting Autopatch rings within the same device category (standard Windows vs. **AVD** vs. **VDI**), and confirm the **Test** ring is scoped narrowly compared to Ring1–Ring3/Last.
+3. Check for policy intent alignment and duplication between similar controls—particularly browser/DLP controls (**“AppLocker Policy - Block Browsers”** and the **Edge policy** blocking browsers where unmanaged AI app DLP doesn’t apply)—and confirm each is assigned only where required.
+4. Confirm baseline enforcement order/precedence for Windows management by verifying **“MDM Wins Over GPO”** remains in place for Windows devices that are expected to be fully controlled by Intune.
+5. Spot-check macOS-specific policies (e.g., **“Defender - Full Disk Access”**, **“Defender - Microsoft AutoUpdate”**) for correct targeting since macOS devices are few (5) and mis-scoping can be easy to miss.
+6. For any policy change, document the impacted ring/group targeting and re-check compliance trends afterward (especially important given the high Windows non-compliance volume currently reflected in the tenant).

@@ -1,0 +1,10 @@
+## Overview
+The Intune environment is managing 500 devices, mostly Windows (474), with smaller Linux (21) and macOS (5) populations. Current compliance posture is low: 190 devices are compliant, 270 are non-compliant, and 40 have an unknown status. Management coverage includes 33 configuration policies and 155 applications deployed, with apps predominantly delivered as Windows Win32 line-of-business packages.
+
+## Key Highlights
+- 270 of 500 devices are non-compliant, and all non-compliance is on Windows (270).
+- 33 configuration policies are in place, including multiple Windows Autopatch rings and security-related controls (e.g., Defender and browser blocking policies).
+- 155 apps are managed, with 137 delivered as Windows Win32 apps (the largest app type by far).
+
+## Recommended Next Step
+Prioritize a focused remediation effort on Windows compliance by reviewing the specific compliance failures driving the 270 non-compliant Windows devices and running a targeted fix campaign (updates, required security settings, and policy/app conflicts), then re-check compliance after changes are applied.

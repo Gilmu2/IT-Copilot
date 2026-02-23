@@ -1,0 +1,28 @@
+﻿<![LOG[Client Cert Check starts.]LOG]!><time="10:14:49.6165885" date="2-3-2026" component="ClientCertCheck" context="" type="1" thread="1" file="">
+<![LOG[OnStart, public cloud env.]LOG]!><time="10:14:49.7303440" date="2-3-2026" component="ClientCertCheck" context="" type="1" thread="1" file="">
+<![LOG[MDM certs found in LocalMachine count: 1]LOG]!><time="10:14:52.1968889" date="2-3-2026" component="ClientCertCheck" context="" type="1" thread="1" file="">
+<![LOG[Fetching the certs from CurrentUser store]LOG]!><time="10:14:52.1968889" date="2-3-2026" component="ClientCertCheck" context="" type="1" thread="1" file="">
+<![LOG[MDM Certs found in CurrentUser: 0]LOG]!><time="10:14:52.2038868" date="2-3-2026" component="ClientCertCheck" context="" type="1" thread="1" file="">
+<![LOG[Skipping the Cert picking as the there are no valid certs or cert count is <= 1.]LOG]!><time="10:14:52.2048864" date="2-3-2026" component="ClientCertCheck" context="" type="1" thread="1" file="">
+<![LOG[Client Cert Check completes.]LOG]!><time="10:14:52.2088861" date="2-3-2026" component="ClientCertCheck" context="" type="1" thread="1" file="">
+<![LOG[Client Cert Check starts.]LOG]!><time="10:38:40.4436554" date="2-3-2026" component="ClientCertCheck" context="" type="1" thread="1" file="">
+<![LOG[OnStart, public cloud env.]LOG]!><time="10:38:40.5059842" date="2-3-2026" component="ClientCertCheck" context="" type="1" thread="1" file="">
+<![LOG[MDM certs found in LocalMachine count: 1]LOG]!><time="10:38:41.9380436" date="2-3-2026" component="ClientCertCheck" context="" type="1" thread="1" file="">
+<![LOG[Fetching the certs from CurrentUser store]LOG]!><time="10:38:41.9380436" date="2-3-2026" component="ClientCertCheck" context="" type="1" thread="1" file="">
+<![LOG[MDM Certs found in CurrentUser: 0]LOG]!><time="10:38:41.9390444" date="2-3-2026" component="ClientCertCheck" context="" type="1" thread="1" file="">
+<![LOG[Skipping the Cert picking as the there are no valid certs or cert count is <= 1.]LOG]!><time="10:38:41.9390444" date="2-3-2026" component="ClientCertCheck" context="" type="1" thread="1" file="">
+<![LOG[Client Cert Check completes.]LOG]!><time="10:38:41.9410440" date="2-3-2026" component="ClientCertCheck" context="" type="1" thread="1" file="">
+<![LOG[Client Cert Check starts.]LOG]!><time="13:23:28.6476085" date="2-3-2026" component="ClientCertCheck" context="" type="1" thread="1" file="">
+<![LOG[OnStart, public cloud env.]LOG]!><time="13:23:28.6961472" date="2-3-2026" component="ClientCertCheck" context="" type="1" thread="1" file="">
+<![LOG[MDM certs found in LocalMachine count: 1]LOG]!><time="13:23:30.2870655" date="2-3-2026" component="ClientCertCheck" context="" type="1" thread="1" file="">
+<![LOG[Fetching the certs from CurrentUser store]LOG]!><time="13:23:30.2870655" date="2-3-2026" component="ClientCertCheck" context="" type="1" thread="1" file="">
+<![LOG[MDM Certs found in CurrentUser: 0]LOG]!><time="13:23:30.2870655" date="2-3-2026" component="ClientCertCheck" context="" type="1" thread="1" file="">
+<![LOG[Skipping the Cert picking as the there are no valid certs or cert count is <= 1.]LOG]!><time="13:23:30.2870655" date="2-3-2026" component="ClientCertCheck" context="" type="1" thread="1" file="">
+<![LOG[Client Cert Check completes.]LOG]!><time="13:23:30.2947749" date="2-3-2026" component="ClientCertCheck" context="" type="1" thread="1" file="">
+<![LOG[Client Cert Check starts.]LOG]!><time="13:29:48.4101279" date="2-3-2026" component="ClientCertCheck" context="" type="1" thread="1" file="">
+<![LOG[OnStart, public cloud env.]LOG]!><time="13:29:48.4247199" date="2-3-2026" component="ClientCertCheck" context="" type="1" thread="1" file="">
+<![LOG[MDM certs found in LocalMachine count: 1]LOG]!><time="13:29:49.5989598" date="2-3-2026" component="ClientCertCheck" context="" type="1" thread="1" file="">
+<![LOG[Fetching the certs from CurrentUser store]LOG]!><time="13:29:49.5989598" date="2-3-2026" component="ClientCertCheck" context="" type="1" thread="1" file="">
+<![LOG[MDM Certs found in CurrentUser: 0]LOG]!><time="13:29:49.5989598" date="2-3-2026" component="ClientCertCheck" context="" type="1" thread="1" file="">
+<![LOG[Skipping the Cert picking as the there are no valid certs or cert count is <= 1.]LOG]!><time="13:29:49.5989598" date="2-3-2026" component="ClientCertCheck" context="" type="1" thread="1" file="">
+<![LOG[Client Cert Check completes.]LOG]!><time="13:29:49.5989598" date="2-3-2026" component="ClientCertCheck" context="" type="1" thread="1" file="">

@@ -1,0 +1,1226 @@
+﻿<![LOG[Timer to fetch proxy details started.]LOG]!><time="06:28:25.5314866" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[Config CFG_STR_PROXY_SERVER is ]LOG]!><time="06:28:26.1021015" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[Pausing transmission...]LOG]!><time="06:28:26.1375366" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[enableDebugEvents is 0]LOG]!><time="06:28:26.1375366" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.1742.amd64fre.ge_release.240331-1435]LOG]!><time="06:28:26.1416521" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[Config CFG_STR_PROXY_SERVER is ]LOG]!><time="06:28:26.1416521" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[Pausing transmission...]LOG]!><time="06:28:26.1416521" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[enableDebugEvents is 0]LOG]!><time="06:28:26.1416521" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.1742.amd64fre.ge_release.240331-1435]LOG]!><time="06:28:26.1416521" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[Config CFG_STR_PROXY_SERVER is ]LOG]!><time="06:28:26.1416521" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[Pausing transmission...]LOG]!><time="06:28:26.1416521" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[enableDebugEvents is 0]LOG]!><time="06:28:26.1416521" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.1742.amd64fre.ge_release.240331-1435]LOG]!><time="06:28:26.1416521" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.1742.amd64fre.ge_release.240331-1435]LOG]!><time="06:28:26.1461073" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.1742.amd64fre.ge_release.240331-1435]LOG]!><time="06:28:26.1461073" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.1742.amd64fre.ge_release.240331-1435]LOG]!><time="06:28:26.1461073" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.1742.amd64fre.ge_release.240331-1435]LOG]!><time="06:28:26.1461073" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.1742.amd64fre.ge_release.240331-1435]LOG]!><time="06:28:26.1461073" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.1742.amd64fre.ge_release.240331-1435]LOG]!><time="06:28:26.1461073" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.1742.amd64fre.ge_release.240331-1435]LOG]!><time="06:28:26.1485943" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[Timer to refresh AAD token has started.]LOG]!><time="06:28:26.1485943" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[AAD token is empty. Fetching new AAD token.]LOG]!><time="06:28:26.1485943" date="2-1-2026" component="DataCollection" context="" type="1" thread="22" file="">
+<![LOG[start to call tokenmanager to get aadtoken...]LOG]!><time="06:28:26.1567458" date="2-1-2026" component="DataCollection" context="" type="1" thread="22" file="">
+<![LOG[Resuming transmission...]LOG]!><time="06:28:26.8252072" date="2-1-2026" component="DataCollection" context="" type="1" thread="22" file="">
+<![LOG[Resuming transmission...]LOG]!><time="06:28:26.8252072" date="2-1-2026" component="DataCollection" context="" type="1" thread="22" file="">
+<![LOG[Resuming transmission...]LOG]!><time="06:28:26.8252072" date="2-1-2026" component="DataCollection" context="" type="1" thread="22" file="">
+<![LOG[Successfully fetched AAD device token.]LOG]!><time="06:28:26.8252072" date="2-1-2026" component="DataCollection" context="" type="1" thread="22" file="">
+<![LOG[Timer to fetch proxy details started.]LOG]!><time="16:37:22.9224095" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[Config CFG_STR_PROXY_SERVER is ]LOG]!><time="16:37:23.4914756" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[Pausing transmission...]LOG]!><time="16:37:23.5278629" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[enableDebugEvents is 0]LOG]!><time="16:37:23.5385794" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.1742.amd64fre.ge_release.240331-1435]LOG]!><time="16:37:23.5385794" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[Config CFG_STR_PROXY_SERVER is ]LOG]!><time="16:37:23.5385794" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[Pausing transmission...]LOG]!><time="16:37:23.5385794" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[enableDebugEvents is 0]LOG]!><time="16:37:23.5385794" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.1742.amd64fre.ge_release.240331-1435]LOG]!><time="16:37:23.5385794" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[Config CFG_STR_PROXY_SERVER is ]LOG]!><time="16:37:23.5385794" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[Pausing transmission...]LOG]!><time="16:37:23.5385794" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[enableDebugEvents is 0]LOG]!><time="16:37:23.5385794" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.1742.amd64fre.ge_release.240331-1435]LOG]!><time="16:37:23.5385794" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.1742.amd64fre.ge_release.240331-1435]LOG]!><time="16:37:23.5385794" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.1742.amd64fre.ge_release.240331-1435]LOG]!><time="16:37:23.5385794" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.1742.amd64fre.ge_release.240331-1435]LOG]!><time="16:37:23.5385794" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.1742.amd64fre.ge_release.240331-1435]LOG]!><time="16:37:23.5385794" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.1742.amd64fre.ge_release.240331-1435]LOG]!><time="16:37:23.5477432" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.1742.amd64fre.ge_release.240331-1435]LOG]!><time="16:37:23.5477432" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.1742.amd64fre.ge_release.240331-1435]LOG]!><time="16:37:23.5477432" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[Timer to refresh AAD token has started.]LOG]!><time="16:37:23.5477432" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[AAD token is empty. Fetching new AAD token.]LOG]!><time="16:37:23.5477432" date="2-1-2026" component="DataCollection" context="" type="1" thread="20" file="">
+<![LOG[start to call tokenmanager to get aadtoken...]LOG]!><time="16:37:23.5719043" date="2-1-2026" component="DataCollection" context="" type="1" thread="20" file="">
+<![LOG[[datasensor] existing bookmark for BootData is ]LOG]!><time="16:37:23.5860477" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] starting registration for BootData, readExisingEvents=True]LOG]!><time="16:37:23.5860477" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[Resuming transmission...]LOG]!><time="16:37:23.5860477" date="2-1-2026" component="DataCollection" context="" type="1" thread="20" file="">
+<![LOG[Resuming transmission...]LOG]!><time="16:37:23.5860477" date="2-1-2026" component="DataCollection" context="" type="1" thread="20" file="">
+<![LOG[Resuming transmission...]LOG]!><time="16:37:23.6017310" date="2-1-2026" component="DataCollection" context="" type="1" thread="20" file="">
+<![LOG[Successfully fetched AAD device token.]LOG]!><time="16:37:23.6017310" date="2-1-2026" component="DataCollection" context="" type="1" thread="20" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="16:37:24.3749787" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="16:37:24.3749787" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="16:37:24.3749787" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="16:37:24.3749787" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="16:37:24.3749787" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="16:37:24.3749787" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="16:37:24.3749787" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="16:37:24.3749787" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="16:37:24.3749787" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="16:37:24.3749787" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="16:37:24.3749787" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="16:37:24.3749787" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="16:37:24.3749787" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="16:37:24.3749787" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="16:37:24.3749787" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="16:37:24.3749787" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="16:37:24.3749787" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="16:37:24.3749787" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="16:37:24.3749787" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="16:37:24.3749787" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="16:37:24.3749787" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="16:37:24.3749787" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="16:37:24.3749787" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="16:37:24.3749787" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="16:37:24.3749787" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="16:37:24.3749787" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="16:37:24.3749787" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="16:37:24.3908394" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="16:37:24.3908394" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="16:37:24.3908394" date="2-1-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[datasensor] get called, the data is 1]LOG]!><time="16:37:24.9866963" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] received boot event, bootid = 2/1/2026 9:40:36 PM, CoreBootTimeInMilliseconds = 18049, GPTimeInMilliseconds = 0, TotalBootTimeInMilliseconds = 18049, UpdateTimeInMilliseconds = 0, EventDataXml = <BootReason><EventData>Unknown</EventData></BootReason>, BootReason = 0, BootDiskMediaType = 4]LOG]!><time="16:37:24.9866963" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] Queueing to send boot event with bootid = 2/1/2026 9:40:36 PM and correlation Id = f0708c1e-a310-478c-942c-301b1a18a166]LOG]!><time="16:37:25.0106424" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[EventManager] Sending event IntuneManagementExtensionProvider.BootEvent through 1DS SDK.]LOG]!><time="16:37:25.0106424" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[EventManager] Finished queueing event IntuneManagementExtensionProvider.BootEvent to the 1DS pipeline.]LOG]!><time="16:37:25.0123828" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] Dispatched batch of 1 boot events to send]LOG]!><time="16:37:25.0123828" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor]bootdata bookmark is <![CDATA[{"BookmarkText":"<BookmarkList>\r\n  <Bookmark Channel='System' RecordId='1' IsCurrent='true'\/>\r\n<\/BookmarkList>"}]]>]LOG]!><time="16:37:25.0123828" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] get called, the data is 1]LOG]!><time="16:37:25.0245603" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] received boot event, bootid = 2/1/2026 9:42:00 PM, CoreBootTimeInMilliseconds = 9948, GPTimeInMilliseconds = 0, TotalBootTimeInMilliseconds = 9948, UpdateTimeInMilliseconds = 0, EventDataXml = <BootReason><EventData>Unknown</EventData></BootReason>, BootReason = 0, BootDiskMediaType = 4]LOG]!><time="16:37:25.0245603" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] Queueing to send boot event with bootid = 2/1/2026 9:42:00 PM and correlation Id = 9b38587d-6338-417f-8a5d-779b2ae5cb1a]LOG]!><time="16:37:25.0245603" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[EventManager] Sending event IntuneManagementExtensionProvider.BootEvent through 1DS SDK.]LOG]!><time="16:37:25.0263025" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[EventManager] Finished queueing event IntuneManagementExtensionProvider.BootEvent to the 1DS pipeline.]LOG]!><time="16:37:25.0263025" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] Dispatched batch of 1 boot events to send]LOG]!><time="16:37:25.0263025" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor]bootdata bookmark is <![CDATA[{"BookmarkText":"<BookmarkList>\r\n  <Bookmark Channel='System' RecordId='240' IsCurrent='true'\/>\r\n<\/BookmarkList>"}]]>]LOG]!><time="16:37:25.0263025" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] get called, the data is 1]LOG]!><time="16:37:25.0402221" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] received boot event, bootid = 2/1/2026 2:02:31 PM, CoreBootTimeInMilliseconds = 6003, GPTimeInMilliseconds = 0, TotalBootTimeInMilliseconds = 6003, UpdateTimeInMilliseconds = 0, EventDataXml = <BootReason><EventData xmlns="http://schemas.microsoft.com/win/2004/08/events/event" SystemPowerOffTime="2026-02-01T14:02:06.1160115Z">
+  <Data Name="param1">C:\Windows\System32\CloudExperienceHostBroker.exe (WIN-HFJK58S45UQ)</Data>
+  <Data Name="param2">DESKTOP-LJ7CKLO</Data>
+  <Data Name="param3">Operating System: Reconfiguration (Unplanned)</Data>
+  <Data Name="param4">0x20004</Data>
+  <Data Name="param5">restart</Data>
+  <Data Name="param6"></Data>
+  <Data Name="param7">NT AUTHORITY\SYSTEM</Data>
+</EventData>
+<CustomData>
+  <FullPath>C:\Windows\System32\CloudExperienceHostBroker.exe</FullPath>
+</CustomData></BootReason>, BootReason = 1074, BootDiskMediaType = 4]LOG]!><time="16:37:25.0419631" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] Queueing to send boot event with bootid = 2/1/2026 2:02:31 PM and correlation Id = 0ee7fb85-ad58-41eb-a70e-cd8ba6eaba45]LOG]!><time="16:37:25.0419631" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[EventManager] Sending event IntuneManagementExtensionProvider.BootEvent through 1DS SDK.]LOG]!><time="16:37:25.0437025" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[EventManager] Finished queueing event IntuneManagementExtensionProvider.BootEvent to the 1DS pipeline.]LOG]!><time="16:37:25.0437025" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] Dispatched batch of 1 boot events to send]LOG]!><time="16:37:25.0437025" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor]bootdata bookmark is <![CDATA[{"BookmarkText":"<BookmarkList>\r\n  <Bookmark Channel='System' RecordId='447' IsCurrent='true'\/>\r\n<\/BookmarkList>"}]]>]LOG]!><time="16:37:25.0437025" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] get called, the data is 1]LOG]!><time="16:37:25.0541419" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] received boot event, bootid = 2/1/2026 2:21:49 PM, CoreBootTimeInMilliseconds = 7797, GPTimeInMilliseconds = 0, TotalBootTimeInMilliseconds = 7797, UpdateTimeInMilliseconds = 0, EventDataXml = <BootReason><EventData>Unknown</EventData></BootReason>, BootReason = 0, BootDiskMediaType = 4]LOG]!><time="16:37:25.0541419" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] Queueing to send boot event with bootid = 2/1/2026 2:21:49 PM and correlation Id = 6bc13717-6aee-49be-82bc-20f5c11c5653]LOG]!><time="16:37:25.0541419" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[EventManager] Sending event IntuneManagementExtensionProvider.BootEvent through 1DS SDK.]LOG]!><time="16:37:25.0558824" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[EventManager] Finished queueing event IntuneManagementExtensionProvider.BootEvent to the 1DS pipeline.]LOG]!><time="16:37:25.0558824" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] Dispatched batch of 1 boot events to send]LOG]!><time="16:37:25.0558824" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor]bootdata bookmark is <![CDATA[{"BookmarkText":"<BookmarkList>\r\n  <Bookmark Channel='System' RecordId='776' IsCurrent='true'\/>\r\n<\/BookmarkList>"}]]>]LOG]!><time="16:37:25.0558824" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] get called, the data is 1]LOG]!><time="16:37:25.0663217" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] received boot event, bootid = 2/1/2026 2:24:50 PM, CoreBootTimeInMilliseconds = 8568, GPTimeInMilliseconds = 0, TotalBootTimeInMilliseconds = 8568, UpdateTimeInMilliseconds = 0, EventDataXml = <BootReason><EventData xmlns="http://schemas.microsoft.com/win/2004/08/events/event" SystemPowerOffTime="2026-02-01T14:24:30.3448601Z">
+  <Data Name="param1">C:\Windows\System32\CloudExperienceHostBroker.exe (CP-5CG54504CD)</Data>
+  <Data Name="param2">CP-5CG54504CD</Data>
+  <Data Name="param3">Operating System: Reconfiguration (Unplanned)</Data>
+  <Data Name="param4">0x20004</Data>
+  <Data Name="param5">restart</Data>
+  <Data Name="param6"></Data>
+  <Data Name="param7">NT AUTHORITY\SYSTEM</Data>
+</EventData>
+<CustomData>
+  <FullPath>C:\Windows\System32\CloudExperienceHostBroker.exe</FullPath>
+</CustomData></BootReason>, BootReason = 1074, BootDiskMediaType = 4]LOG]!><time="16:37:25.0680623" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] Queueing to send boot event with bootid = 2/1/2026 2:24:50 PM and correlation Id = 043f0834-ecab-44a0-8391-36248d701a87]LOG]!><time="16:37:25.0680623" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[EventManager] Sending event IntuneManagementExtensionProvider.BootEvent through 1DS SDK.]LOG]!><time="16:37:25.0680623" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[EventManager] Finished queueing event IntuneManagementExtensionProvider.BootEvent to the 1DS pipeline.]LOG]!><time="16:37:25.0680623" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] Dispatched batch of 1 boot events to send]LOG]!><time="16:37:25.0680623" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor]bootdata bookmark is <![CDATA[{"BookmarkText":"<BookmarkList>\r\n  <Bookmark Channel='System' RecordId='1008' IsCurrent='true'\/>\r\n<\/BookmarkList>"}]]>]LOG]!><time="16:37:25.0698026" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] get called, the data is 1]LOG]!><time="16:37:25.0802401" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] received boot event, bootid = 2/1/2026 2:34:56 PM, CoreBootTimeInMilliseconds = 9886, GPTimeInMilliseconds = 0, TotalBootTimeInMilliseconds = 9886, UpdateTimeInMilliseconds = 0, EventDataXml = <BootReason><EventData xmlns="http://schemas.microsoft.com/win/2004/08/events/event" SystemPowerOffTime="2026-02-01T14:34:17.2237537Z">
+  <Data Name="param1">C:\Windows\System32\CloudExperienceHostBroker.exe (GILADY-APG1)</Data>
+  <Data Name="param2">GILADY-APG1</Data>
+  <Data Name="param3">Operating System: Reconfiguration (Unplanned)</Data>
+  <Data Name="param4">0x20004</Data>
+  <Data Name="param5">restart</Data>
+  <Data Name="param6"></Data>
+  <Data Name="param7">NT AUTHORITY\SYSTEM</Data>
+</EventData>
+<CustomData>
+  <FullPath>C:\Windows\System32\CloudExperienceHostBroker.exe</FullPath>
+</CustomData></BootReason>, BootReason = 1074, BootDiskMediaType = 4]LOG]!><time="16:37:25.0802401" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] Queueing to send boot event with bootid = 2/1/2026 2:34:56 PM and correlation Id = c65344d7-c0b2-4546-b980-e35eb0e319aa]LOG]!><time="16:37:25.0854611" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[EventManager] Sending event IntuneManagementExtensionProvider.BootEvent through 1DS SDK.]LOG]!><time="16:37:25.0854611" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[EventManager] Finished queueing event IntuneManagementExtensionProvider.BootEvent to the 1DS pipeline.]LOG]!><time="16:37:25.0854611" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] Dispatched batch of 1 boot events to send]LOG]!><time="16:37:25.0854611" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor]bootdata bookmark is <![CDATA[{"BookmarkText":"<BookmarkList>\r\n  <Bookmark Channel='System' RecordId='1260' IsCurrent='true'\/>\r\n<\/BookmarkList>"}]]>]LOG]!><time="16:37:25.0854611" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] successfully registered the datasensor for BootData, readExisingEvents=True]LOG]!><time="16:37:25.0872027" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] existing bookmark for LogOnPerfData is ]LOG]!><time="16:37:25.0872027" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] starting registration for LogOnPerfData, readExisingEvents=True]LOG]!><time="16:37:25.0872027" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] successfully registered the datasensor for LogOnPerfData, readExisingEvents=True]LOG]!><time="16:37:25.1873317" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] existing bookmark for AppUsageData is ]LOG]!><time="16:37:25.1873317" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] starting registration for AppUsageData, readExisingEvents=True]LOG]!><time="16:37:25.1873317" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] successfully registered the datasensor for AppUsageData, readExisingEvents=True]LOG]!><time="16:37:25.1873317" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] existing bookmark for HardwareReadinessData is ]LOG]!><time="16:37:25.1873317" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] starting registration for HardwareReadinessData, readExisingEvents=True]LOG]!><time="16:37:25.1873317" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] successfully registered the datasensor for HardwareReadinessData, readExisingEvents=True]LOG]!><time="16:37:25.1873317" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] existing bookmark for DeviceInventoryData is ]LOG]!><time="16:37:25.1873317" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] starting registration for DeviceInventoryData, readExisingEvents=True]LOG]!><time="16:37:25.1873317" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] successfully registered the datasensor for DeviceInventoryData, readExisingEvents=True]LOG]!><time="16:37:25.1873317" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] existing bookmark for DriverInventoryData is ]LOG]!><time="16:37:25.1955262" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] starting registration for DriverInventoryData, readExisingEvents=True]LOG]!><time="16:37:25.1955262" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] successfully registered the datasensor for DriverInventoryData, readExisingEvents=True]LOG]!><time="16:37:25.1955262" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] existing bookmark for ApplicationData is ]LOG]!><time="16:37:25.1955262" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] Querying AppCrash/Hang events]LOG]!><time="16:37:25.1955262" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] get called, the data is 1]LOG]!><time="16:37:25.2979511" date="2-1-2026" component="DataCollection" context="" type="1" thread="13" file="">
+<![LOG[[datasensor] Skipping hardware readiness event before first enrollment, RecordId: 20099]LOG]!><time="16:37:25.2979511" date="2-1-2026" component="DataCollection" context="" type="1" thread="13" file="">
+<![LOG[[datasensor] Calling sensor handler for AppCrash/Hang]LOG]!><time="16:37:25.3307265" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] get called, the data is 1]LOG]!><time="16:37:25.3307265" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] received application event, RecordId: 389, 1001 , <![CDATA[<EventData xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <Data Name="Bucket"></Data>
+  <Data Name="BucketType">0</Data>
+  <Data Name="EventName">LiveKernelEvent</Data>
+  <Data Name="Response">Not available</Data>
+  <Data Name="CabId">0</Data>
+  <Data Name="P1">1a8</Data>
+  <Data Name="P2">a</Data>
+  <Data Name="P3">0</Data>
+  <Data Name="P4">0</Data>
+  <Data Name="P5">0</Data>
+  <Data Name="P6">10_0_26100</Data>
+  <Data Name="P7">0_0</Data>
+  <Data Name="P8">256_1</Data>
+  <Data Name="P9"></Data>
+  <Data Name="P10"></Data>
+  <Data Name="AttachedFiles">
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20260201-0609.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-398031-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.d3d9a7e2-3f7c-464a-8475-8c73925c959b.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.a54a4739-f668-4061-a2b8-04afbbf417de.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.9d0ca622-c63d-4c27-a58a-d70c0d9bf819.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.0755efee-0a6e-406d-9eda-8a6bc84b9ea9.tmp.xml</Data>
+  <Data Name="StorePath">\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_1a8_3748bd66a7bb3ae96eac533a61a9ac86d47cc_00000000_cab_7bd0051c-6279-425a-8210-21e9bbb1280c</Data>
+  <Data Name="AnalysisSymbol"></Data>
+  <Data Name="Rechecking">0</Data>
+  <Data Name="ReportId">7bd0051c-6279-425a-8210-21e9bbb1280c</Data>
+  <Data Name="ReportStatus">4</Data>
+  <Data Name="HashedBucket"></Data>
+  <Data Name="CabGuid">0</Data>
+</EventData>
+]]>]LOG]!><time="16:37:25.3307265" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] skipping application event before first enrollment, RecordId: 389, <![CDATA[<EventData xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <Data Name="Bucket"></Data>
+  <Data Name="BucketType">0</Data>
+  <Data Name="EventName">LiveKernelEvent</Data>
+  <Data Name="Response">Not available</Data>
+  <Data Name="CabId">0</Data>
+  <Data Name="P1">1a8</Data>
+  <Data Name="P2">a</Data>
+  <Data Name="P3">0</Data>
+  <Data Name="P4">0</Data>
+  <Data Name="P5">0</Data>
+  <Data Name="P6">10_0_26100</Data>
+  <Data Name="P7">0_0</Data>
+  <Data Name="P8">256_1</Data>
+  <Data Name="P9"></Data>
+  <Data Name="P10"></Data>
+  <Data Name="AttachedFiles">
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20260201-0609.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-398031-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.d3d9a7e2-3f7c-464a-8475-8c73925c959b.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.a54a4739-f668-4061-a2b8-04afbbf417de.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.9d0ca622-c63d-4c27-a58a-d70c0d9bf819.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.0755efee-0a6e-406d-9eda-8a6bc84b9ea9.tmp.xml</Data>
+  <Data Name="StorePath">\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_1a8_3748bd66a7bb3ae96eac533a61a9ac86d47cc_00000000_cab_7bd0051c-6279-425a-8210-21e9bbb1280c</Data>
+  <Data Name="AnalysisSymbol"></Data>
+  <Data Name="Rechecking">0</Data>
+  <Data Name="ReportId">7bd0051c-6279-425a-8210-21e9bbb1280c</Data>
+  <Data Name="ReportStatus">4</Data>
+  <Data Name="HashedBucket"></Data>
+  <Data Name="CabGuid">0</Data>
+</EventData>
+]]>]LOG]!><time="16:37:25.3307265" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] received application event, RecordId: 707, 1000 , <![CDATA[<EventData xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <Data Name="AppName">wwahost.exe</Data>
+  <Data Name="AppVersion">10.0.26100.1</Data>
+  <Data Name="AppTimeStamp">725a9109</Data>
+  <Data Name="ModuleName">MrmCoreR.dll</Data>
+  <Data Name="ModuleVersion">10.0.26100.712</Data>
+  <Data Name="ModuleTimeStamp">9db00393</Data>
+  <Data Name="ExceptionCode">c0000005</Data>
+  <Data Name="FaultingOffset">000000000003db26</Data>
+  <Data Name="ProcessId">0x2204</Data>
+  <Data Name="ProcessCreationTime">0x1dc9387f76ce3bc</Data>
+  <Data Name="AppPath">C:\WINDOWS\system32\wwahost.exe</Data>
+  <Data Name="ModulePath">C:\Windows\System32\MrmCoreR.dll</Data>
+  <Data Name="IntegratorReportId">99025687-9478-46a2-8963-03d0171f3490</Data>
+  <Data Name="PackageFullName">Microsoft.Windows.CloudExperienceHost_10.0.26100.1_neutral_neutral_cw5n1h2txyewy</Data>
+  <Data Name="PackageRelativeAppId">App</Data>
+</EventData>
+<CustomData>
+  <FullPath>C:\WINDOWS\system32\wwahost.exe</FullPath>
+  <ProductVersion>10.0.26100.1</ProductVersion>
+  <ProductName>Microsoft® Windows® Operating System</ProductName>
+  <Publisher>Microsoft Corporation</Publisher>
+  <ProgramId>00007DBF12012CBDDDDBBFA75586CD9BA8D100000000</ProgramId>
+  <FileId>00003A231E874A915890CDA781248C91401D273B5B8B</FileId>
+  <FileVersion>10.0.26100.1 (WinBuild.160101.0800)</FileVersion>
+</CustomData>]]>]LOG]!><time="16:37:25.3307265" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] skipping application event before first enrollment, RecordId: 707, <![CDATA[<EventData xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <Data Name="AppName">wwahost.exe</Data>
+  <Data Name="AppVersion">10.0.26100.1</Data>
+  <Data Name="AppTimeStamp">725a9109</Data>
+  <Data Name="ModuleName">MrmCoreR.dll</Data>
+  <Data Name="ModuleVersion">10.0.26100.712</Data>
+  <Data Name="ModuleTimeStamp">9db00393</Data>
+  <Data Name="ExceptionCode">c0000005</Data>
+  <Data Name="FaultingOffset">000000000003db26</Data>
+  <Data Name="ProcessId">0x2204</Data>
+  <Data Name="ProcessCreationTime">0x1dc9387f76ce3bc</Data>
+  <Data Name="AppPath">C:\WINDOWS\system32\wwahost.exe</Data>
+  <Data Name="ModulePath">C:\Windows\System32\MrmCoreR.dll</Data>
+  <Data Name="IntegratorReportId">99025687-9478-46a2-8963-03d0171f3490</Data>
+  <Data Name="PackageFullName">Microsoft.Windows.CloudExperienceHost_10.0.26100.1_neutral_neutral_cw5n1h2txyewy</Data>
+  <Data Name="PackageRelativeAppId">App</Data>
+</EventData>
+<CustomData>
+  <FullPath>C:\WINDOWS\system32\wwahost.exe</FullPath>
+  <ProductVersion>10.0.26100.1</ProductVersion>
+  <ProductName>Microsoft® Windows® Operating System</ProductName>
+  <Publisher>Microsoft Corporation</Publisher>
+  <ProgramId>00007DBF12012CBDDDDBBFA75586CD9BA8D100000000</ProgramId>
+  <FileId>00003A231E874A915890CDA781248C91401D273B5B8B</FileId>
+  <FileVersion>10.0.26100.1 (WinBuild.160101.0800)</FileVersion>
+</CustomData>]]>]LOG]!><time="16:37:25.3307265" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] Dispatched batch of 0 Application crash/hang events to send]LOG]!><time="16:37:25.3307265" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] application data bookmark is <![CDATA[{"BookmarkText":"<BookmarkList>\r\n  <Bookmark Channel='Application' RecordId='710' IsCurrent='true'\/>\r\n<\/BookmarkList>"}]]>]LOG]!><time="16:37:25.3307265" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] existing bookmark for CpuDailyData is ]LOG]!><time="16:37:25.3372629" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] starting registration for CpuDailyData, readExisingEvents=True]LOG]!><time="16:37:25.3372629" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] successfully registered the datasensor for CpuDailyData, readExisingEvents=True]LOG]!><time="16:37:25.3704771" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] existing bookmark for MemoryUsageData is ]LOG]!><time="16:37:25.3704771" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] starting registration for MemoryUsageData, readExisingEvents=True]LOG]!><time="16:37:25.3704771" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] successfully registered the datasensor for MemoryUsageData, readExisingEvents=True]LOG]!><time="16:37:25.4018407" date="2-1-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] get called, the data is 1]LOG]!><time="16:37:27.1044108" date="2-1-2026" component="DataCollection" context="" type="1" thread="19" file="">
+<![LOG[[datasensor] Skipping device inventory event before first enrollment, RecordId: 20098]LOG]!><time="16:37:27.1044108" date="2-1-2026" component="DataCollection" context="" type="1" thread="19" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="14:55:11.3977891" date="2-2-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="14:55:11.3997044" date="2-2-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="14:55:11.4006606" date="2-2-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="14:55:11.4018060" date="2-2-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="14:55:11.4037926" date="2-2-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="14:55:11.4047683" date="2-2-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="14:55:11.4066656" date="2-2-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="14:55:11.4066656" date="2-2-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="14:55:11.4087901" date="2-2-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="14:55:11.4097118" date="2-2-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="14:55:11.4107417" date="2-2-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="14:55:11.4117844" date="2-2-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="14:55:11.4137792" date="2-2-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="14:55:11.4147362" date="2-2-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="14:55:11.4157722" date="2-2-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="14:55:11.4168018" date="2-2-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="14:55:11.4188012" date="2-2-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="14:55:11.4197864" date="2-2-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="14:55:11.4217853" date="2-2-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="14:55:11.4217853" date="2-2-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="14:55:11.4237840" date="2-2-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="14:55:11.4247648" date="2-2-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="14:55:11.4257315" date="2-2-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="14:55:11.4267955" date="2-2-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="14:55:11.4287714" date="2-2-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="14:55:11.4296570" date="2-2-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="14:55:11.4317530" date="2-2-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="14:55:11.4317530" date="2-2-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[datasensor] existing bookmark for ApplicationData is ]LOG]!><time="09:28:17.8182862" date="2-3-2026" component="DataCollection" context="" type="1" thread="9" file="">
+<![LOG[[datasensor] Querying AppCrash/Hang events]LOG]!><time="09:28:17.8182862" date="2-3-2026" component="DataCollection" context="" type="1" thread="9" file="">
+<![LOG[[datasensor] Calling sensor handler for AppCrash/Hang]LOG]!><time="09:28:17.9087051" date="2-3-2026" component="DataCollection" context="" type="1" thread="9" file="">
+<![LOG[[datasensor] get called, the data is 1]LOG]!><time="09:28:17.9087051" date="2-3-2026" component="DataCollection" context="" type="1" thread="9" file="">
+<![LOG[[datasensor] received application event, RecordId: 389, 1001 , <![CDATA[<EventData xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <Data Name="Bucket"></Data>
+  <Data Name="BucketType">0</Data>
+  <Data Name="EventName">LiveKernelEvent</Data>
+  <Data Name="Response">Not available</Data>
+  <Data Name="CabId">0</Data>
+  <Data Name="P1">1a8</Data>
+  <Data Name="P2">a</Data>
+  <Data Name="P3">0</Data>
+  <Data Name="P4">0</Data>
+  <Data Name="P5">0</Data>
+  <Data Name="P6">10_0_26100</Data>
+  <Data Name="P7">0_0</Data>
+  <Data Name="P8">256_1</Data>
+  <Data Name="P9"></Data>
+  <Data Name="P10"></Data>
+  <Data Name="AttachedFiles">
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20260201-0609.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-398031-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.d3d9a7e2-3f7c-464a-8475-8c73925c959b.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.a54a4739-f668-4061-a2b8-04afbbf417de.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.9d0ca622-c63d-4c27-a58a-d70c0d9bf819.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.0755efee-0a6e-406d-9eda-8a6bc84b9ea9.tmp.xml</Data>
+  <Data Name="StorePath">\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_1a8_3748bd66a7bb3ae96eac533a61a9ac86d47cc_00000000_cab_7bd0051c-6279-425a-8210-21e9bbb1280c</Data>
+  <Data Name="AnalysisSymbol"></Data>
+  <Data Name="Rechecking">0</Data>
+  <Data Name="ReportId">7bd0051c-6279-425a-8210-21e9bbb1280c</Data>
+  <Data Name="ReportStatus">4</Data>
+  <Data Name="HashedBucket"></Data>
+  <Data Name="CabGuid">0</Data>
+</EventData>
+]]>]LOG]!><time="09:28:17.9087051" date="2-3-2026" component="DataCollection" context="" type="1" thread="9" file="">
+<![LOG[[datasensor] skipping application event before first enrollment, RecordId: 389, <![CDATA[<EventData xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <Data Name="Bucket"></Data>
+  <Data Name="BucketType">0</Data>
+  <Data Name="EventName">LiveKernelEvent</Data>
+  <Data Name="Response">Not available</Data>
+  <Data Name="CabId">0</Data>
+  <Data Name="P1">1a8</Data>
+  <Data Name="P2">a</Data>
+  <Data Name="P3">0</Data>
+  <Data Name="P4">0</Data>
+  <Data Name="P5">0</Data>
+  <Data Name="P6">10_0_26100</Data>
+  <Data Name="P7">0_0</Data>
+  <Data Name="P8">256_1</Data>
+  <Data Name="P9"></Data>
+  <Data Name="P10"></Data>
+  <Data Name="AttachedFiles">
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20260201-0609.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-398031-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.d3d9a7e2-3f7c-464a-8475-8c73925c959b.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.a54a4739-f668-4061-a2b8-04afbbf417de.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.9d0ca622-c63d-4c27-a58a-d70c0d9bf819.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.0755efee-0a6e-406d-9eda-8a6bc84b9ea9.tmp.xml</Data>
+  <Data Name="StorePath">\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_1a8_3748bd66a7bb3ae96eac533a61a9ac86d47cc_00000000_cab_7bd0051c-6279-425a-8210-21e9bbb1280c</Data>
+  <Data Name="AnalysisSymbol"></Data>
+  <Data Name="Rechecking">0</Data>
+  <Data Name="ReportId">7bd0051c-6279-425a-8210-21e9bbb1280c</Data>
+  <Data Name="ReportStatus">4</Data>
+  <Data Name="HashedBucket"></Data>
+  <Data Name="CabGuid">0</Data>
+</EventData>
+]]>]LOG]!><time="09:28:17.9087051" date="2-3-2026" component="DataCollection" context="" type="1" thread="9" file="">
+<![LOG[[datasensor] received application event, RecordId: 707, 1000 , <![CDATA[<EventData xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <Data Name="AppName">wwahost.exe</Data>
+  <Data Name="AppVersion">10.0.26100.1</Data>
+  <Data Name="AppTimeStamp">725a9109</Data>
+  <Data Name="ModuleName">MrmCoreR.dll</Data>
+  <Data Name="ModuleVersion">10.0.26100.712</Data>
+  <Data Name="ModuleTimeStamp">9db00393</Data>
+  <Data Name="ExceptionCode">c0000005</Data>
+  <Data Name="FaultingOffset">000000000003db26</Data>
+  <Data Name="ProcessId">0x2204</Data>
+  <Data Name="ProcessCreationTime">0x1dc9387f76ce3bc</Data>
+  <Data Name="AppPath">C:\WINDOWS\system32\wwahost.exe</Data>
+  <Data Name="ModulePath">C:\Windows\System32\MrmCoreR.dll</Data>
+  <Data Name="IntegratorReportId">99025687-9478-46a2-8963-03d0171f3490</Data>
+  <Data Name="PackageFullName">Microsoft.Windows.CloudExperienceHost_10.0.26100.1_neutral_neutral_cw5n1h2txyewy</Data>
+  <Data Name="PackageRelativeAppId">App</Data>
+</EventData>
+<CustomData>
+  <FullPath>C:\WINDOWS\system32\wwahost.exe</FullPath>
+  <ProductVersion>10.0.26100.1</ProductVersion>
+  <ProductName>Microsoft® Windows® Operating System</ProductName>
+  <Publisher>Microsoft Corporation</Publisher>
+  <ProgramId>00007DBF12012CBDDDDBBFA75586CD9BA8D100000000</ProgramId>
+  <FileId>00003A231E874A915890CDA781248C91401D273B5B8B</FileId>
+  <FileVersion>10.0.26100.1 (WinBuild.160101.0800)</FileVersion>
+</CustomData>]]>]LOG]!><time="09:28:17.9087051" date="2-3-2026" component="DataCollection" context="" type="1" thread="9" file="">
+<![LOG[[datasensor] skipping application event before first enrollment, RecordId: 707, <![CDATA[<EventData xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <Data Name="AppName">wwahost.exe</Data>
+  <Data Name="AppVersion">10.0.26100.1</Data>
+  <Data Name="AppTimeStamp">725a9109</Data>
+  <Data Name="ModuleName">MrmCoreR.dll</Data>
+  <Data Name="ModuleVersion">10.0.26100.712</Data>
+  <Data Name="ModuleTimeStamp">9db00393</Data>
+  <Data Name="ExceptionCode">c0000005</Data>
+  <Data Name="FaultingOffset">000000000003db26</Data>
+  <Data Name="ProcessId">0x2204</Data>
+  <Data Name="ProcessCreationTime">0x1dc9387f76ce3bc</Data>
+  <Data Name="AppPath">C:\WINDOWS\system32\wwahost.exe</Data>
+  <Data Name="ModulePath">C:\Windows\System32\MrmCoreR.dll</Data>
+  <Data Name="IntegratorReportId">99025687-9478-46a2-8963-03d0171f3490</Data>
+  <Data Name="PackageFullName">Microsoft.Windows.CloudExperienceHost_10.0.26100.1_neutral_neutral_cw5n1h2txyewy</Data>
+  <Data Name="PackageRelativeAppId">App</Data>
+</EventData>
+<CustomData>
+  <FullPath>C:\WINDOWS\system32\wwahost.exe</FullPath>
+  <ProductVersion>10.0.26100.1</ProductVersion>
+  <ProductName>Microsoft® Windows® Operating System</ProductName>
+  <Publisher>Microsoft Corporation</Publisher>
+  <ProgramId>00007DBF12012CBDDDDBBFA75586CD9BA8D100000000</ProgramId>
+  <FileId>00003A231E874A915890CDA781248C91401D273B5B8B</FileId>
+  <FileVersion>10.0.26100.1 (WinBuild.160101.0800)</FileVersion>
+</CustomData>]]>]LOG]!><time="09:28:17.9087051" date="2-3-2026" component="DataCollection" context="" type="1" thread="9" file="">
+<![LOG[[datasensor] Dispatched batch of 0 Application crash/hang events to send]LOG]!><time="09:28:17.9096902" date="2-3-2026" component="DataCollection" context="" type="1" thread="9" file="">
+<![LOG[[datasensor] application data bookmark is <![CDATA[{"BookmarkText":"<BookmarkList>\r\n  <Bookmark Channel='Application' RecordId='882' IsCurrent='true'\/>\r\n<\/BookmarkList>"}]]>]LOG]!><time="09:28:17.9096902" date="2-3-2026" component="DataCollection" context="" type="1" thread="9" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="10:07:18.1694662" date="2-3-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="10:07:18.1704673" date="2-3-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="10:07:18.1704673" date="2-3-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="10:07:18.1714676" date="2-3-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="10:07:18.1724653" date="2-3-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="10:07:18.1724653" date="2-3-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="10:07:18.1734664" date="2-3-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="10:07:18.1734664" date="2-3-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="10:07:18.1734664" date="2-3-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="10:07:18.1734664" date="2-3-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="10:07:18.1749823" date="2-3-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="10:07:18.1749823" date="2-3-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="10:07:18.1760034" date="2-3-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="10:07:18.1760034" date="2-3-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="10:07:18.1769995" date="2-3-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="10:07:18.1769995" date="2-3-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="10:07:18.1780011" date="2-3-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="10:07:18.1780011" date="2-3-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event Microsoft_Inventory_Events_2 through 1DS SDK.]LOG]!><time="10:07:18.1829995" date="2-3-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event Microsoft_Inventory_Events_2 to the 1DS pipeline.]LOG]!><time="10:07:18.1829995" date="2-3-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event Microsoft_Inventory_Events_2 through 1DS SDK.]LOG]!><time="10:07:18.1839997" date="2-3-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event Microsoft_Inventory_Events_2 to the 1DS pipeline.]LOG]!><time="10:07:18.1839997" date="2-3-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event SidecarAgent_logevent through 1DS SDK.]LOG]!><time="10:07:18.1880002" date="2-3-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Finished queueing event SidecarAgent_logevent to the 1DS pipeline.]LOG]!><time="10:07:18.1880002" date="2-3-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[datasensor] existing bookmark for ApplicationData is ]LOG]!><time="10:55:19.2709057" date="2-3-2026" component="DataCollection" context="" type="1" thread="19" file="">
+<![LOG[[datasensor] Querying AppCrash/Hang events]LOG]!><time="10:55:19.2714122" date="2-3-2026" component="DataCollection" context="" type="1" thread="19" file="">
+<![LOG[[datasensor] Calling sensor handler for AppCrash/Hang]LOG]!><time="10:55:19.3256805" date="2-3-2026" component="DataCollection" context="" type="1" thread="19" file="">
+<![LOG[[datasensor] get called, the data is 1]LOG]!><time="10:55:19.3256805" date="2-3-2026" component="DataCollection" context="" type="1" thread="19" file="">
+<![LOG[[datasensor] received application event, RecordId: 389, 1001 , <![CDATA[<EventData xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <Data Name="Bucket"></Data>
+  <Data Name="BucketType">0</Data>
+  <Data Name="EventName">LiveKernelEvent</Data>
+  <Data Name="Response">Not available</Data>
+  <Data Name="CabId">0</Data>
+  <Data Name="P1">1a8</Data>
+  <Data Name="P2">a</Data>
+  <Data Name="P3">0</Data>
+  <Data Name="P4">0</Data>
+  <Data Name="P5">0</Data>
+  <Data Name="P6">10_0_26100</Data>
+  <Data Name="P7">0_0</Data>
+  <Data Name="P8">256_1</Data>
+  <Data Name="P9"></Data>
+  <Data Name="P10"></Data>
+  <Data Name="AttachedFiles">
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20260201-0609.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-398031-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.d3d9a7e2-3f7c-464a-8475-8c73925c959b.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.a54a4739-f668-4061-a2b8-04afbbf417de.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.9d0ca622-c63d-4c27-a58a-d70c0d9bf819.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.0755efee-0a6e-406d-9eda-8a6bc84b9ea9.tmp.xml</Data>
+  <Data Name="StorePath">\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_1a8_3748bd66a7bb3ae96eac533a61a9ac86d47cc_00000000_cab_7bd0051c-6279-425a-8210-21e9bbb1280c</Data>
+  <Data Name="AnalysisSymbol"></Data>
+  <Data Name="Rechecking">0</Data>
+  <Data Name="ReportId">7bd0051c-6279-425a-8210-21e9bbb1280c</Data>
+  <Data Name="ReportStatus">4</Data>
+  <Data Name="HashedBucket"></Data>
+  <Data Name="CabGuid">0</Data>
+</EventData>
+]]>]LOG]!><time="10:55:19.3266886" date="2-3-2026" component="DataCollection" context="" type="1" thread="19" file="">
+<![LOG[[datasensor] skipping application event before first enrollment, RecordId: 389, <![CDATA[<EventData xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <Data Name="Bucket"></Data>
+  <Data Name="BucketType">0</Data>
+  <Data Name="EventName">LiveKernelEvent</Data>
+  <Data Name="Response">Not available</Data>
+  <Data Name="CabId">0</Data>
+  <Data Name="P1">1a8</Data>
+  <Data Name="P2">a</Data>
+  <Data Name="P3">0</Data>
+  <Data Name="P4">0</Data>
+  <Data Name="P5">0</Data>
+  <Data Name="P6">10_0_26100</Data>
+  <Data Name="P7">0_0</Data>
+  <Data Name="P8">256_1</Data>
+  <Data Name="P9"></Data>
+  <Data Name="P10"></Data>
+  <Data Name="AttachedFiles">
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20260201-0609.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-398031-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.d3d9a7e2-3f7c-464a-8475-8c73925c959b.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.a54a4739-f668-4061-a2b8-04afbbf417de.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.9d0ca622-c63d-4c27-a58a-d70c0d9bf819.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.0755efee-0a6e-406d-9eda-8a6bc84b9ea9.tmp.xml</Data>
+  <Data Name="StorePath">\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_1a8_3748bd66a7bb3ae96eac533a61a9ac86d47cc_00000000_cab_7bd0051c-6279-425a-8210-21e9bbb1280c</Data>
+  <Data Name="AnalysisSymbol"></Data>
+  <Data Name="Rechecking">0</Data>
+  <Data Name="ReportId">7bd0051c-6279-425a-8210-21e9bbb1280c</Data>
+  <Data Name="ReportStatus">4</Data>
+  <Data Name="HashedBucket"></Data>
+  <Data Name="CabGuid">0</Data>
+</EventData>
+]]>]LOG]!><time="10:55:19.3266886" date="2-3-2026" component="DataCollection" context="" type="1" thread="19" file="">
+<![LOG[[datasensor] received application event, RecordId: 707, 1000 , <![CDATA[<EventData xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <Data Name="AppName">wwahost.exe</Data>
+  <Data Name="AppVersion">10.0.26100.1</Data>
+  <Data Name="AppTimeStamp">725a9109</Data>
+  <Data Name="ModuleName">MrmCoreR.dll</Data>
+  <Data Name="ModuleVersion">10.0.26100.712</Data>
+  <Data Name="ModuleTimeStamp">9db00393</Data>
+  <Data Name="ExceptionCode">c0000005</Data>
+  <Data Name="FaultingOffset">000000000003db26</Data>
+  <Data Name="ProcessId">0x2204</Data>
+  <Data Name="ProcessCreationTime">0x1dc9387f76ce3bc</Data>
+  <Data Name="AppPath">C:\WINDOWS\system32\wwahost.exe</Data>
+  <Data Name="ModulePath">C:\Windows\System32\MrmCoreR.dll</Data>
+  <Data Name="IntegratorReportId">99025687-9478-46a2-8963-03d0171f3490</Data>
+  <Data Name="PackageFullName">Microsoft.Windows.CloudExperienceHost_10.0.26100.1_neutral_neutral_cw5n1h2txyewy</Data>
+  <Data Name="PackageRelativeAppId">App</Data>
+</EventData>
+<CustomData>
+  <FullPath>C:\WINDOWS\system32\wwahost.exe</FullPath>
+  <ProductVersion>10.0.26100.1</ProductVersion>
+  <ProductName>Microsoft® Windows® Operating System</ProductName>
+  <Publisher>Microsoft Corporation</Publisher>
+  <ProgramId>00007DBF12012CBDDDDBBFA75586CD9BA8D100000000</ProgramId>
+  <FileId>00003A231E874A915890CDA781248C91401D273B5B8B</FileId>
+  <FileVersion>10.0.26100.1 (WinBuild.160101.0800)</FileVersion>
+</CustomData>]]>]LOG]!><time="10:55:19.3266886" date="2-3-2026" component="DataCollection" context="" type="1" thread="19" file="">
+<![LOG[[datasensor] skipping application event before first enrollment, RecordId: 707, <![CDATA[<EventData xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <Data Name="AppName">wwahost.exe</Data>
+  <Data Name="AppVersion">10.0.26100.1</Data>
+  <Data Name="AppTimeStamp">725a9109</Data>
+  <Data Name="ModuleName">MrmCoreR.dll</Data>
+  <Data Name="ModuleVersion">10.0.26100.712</Data>
+  <Data Name="ModuleTimeStamp">9db00393</Data>
+  <Data Name="ExceptionCode">c0000005</Data>
+  <Data Name="FaultingOffset">000000000003db26</Data>
+  <Data Name="ProcessId">0x2204</Data>
+  <Data Name="ProcessCreationTime">0x1dc9387f76ce3bc</Data>
+  <Data Name="AppPath">C:\WINDOWS\system32\wwahost.exe</Data>
+  <Data Name="ModulePath">C:\Windows\System32\MrmCoreR.dll</Data>
+  <Data Name="IntegratorReportId">99025687-9478-46a2-8963-03d0171f3490</Data>
+  <Data Name="PackageFullName">Microsoft.Windows.CloudExperienceHost_10.0.26100.1_neutral_neutral_cw5n1h2txyewy</Data>
+  <Data Name="PackageRelativeAppId">App</Data>
+</EventData>
+<CustomData>
+  <FullPath>C:\WINDOWS\system32\wwahost.exe</FullPath>
+  <ProductVersion>10.0.26100.1</ProductVersion>
+  <ProductName>Microsoft® Windows® Operating System</ProductName>
+  <Publisher>Microsoft Corporation</Publisher>
+  <ProgramId>00007DBF12012CBDDDDBBFA75586CD9BA8D100000000</ProgramId>
+  <FileId>00003A231E874A915890CDA781248C91401D273B5B8B</FileId>
+  <FileVersion>10.0.26100.1 (WinBuild.160101.0800)</FileVersion>
+</CustomData>]]>]LOG]!><time="10:55:19.3266886" date="2-3-2026" component="DataCollection" context="" type="1" thread="19" file="">
+<![LOG[[datasensor] Dispatched batch of 0 Application crash/hang events to send]LOG]!><time="10:55:19.3266886" date="2-3-2026" component="DataCollection" context="" type="1" thread="19" file="">
+<![LOG[[datasensor] application data bookmark is <![CDATA[{"BookmarkText":"<BookmarkList>\r\n  <Bookmark Channel='Application' RecordId='1148' IsCurrent='true'\/>\r\n<\/BookmarkList>"}]]>]LOG]!><time="10:55:19.3266886" date="2-3-2026" component="DataCollection" context="" type="1" thread="19" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="11:07:18.3942006" date="2-3-2026" component="DataCollection" context="" type="1" thread="32" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="11:07:18.3952004" date="2-3-2026" component="DataCollection" context="" type="1" thread="32" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="11:07:18.3971960" date="2-3-2026" component="DataCollection" context="" type="1" thread="32" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="11:07:18.3971960" date="2-3-2026" component="DataCollection" context="" type="1" thread="32" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="11:07:18.3991968" date="2-3-2026" component="DataCollection" context="" type="1" thread="32" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="11:07:18.3991968" date="2-3-2026" component="DataCollection" context="" type="1" thread="32" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="11:07:18.4011950" date="2-3-2026" component="DataCollection" context="" type="1" thread="32" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="11:07:18.4011950" date="2-3-2026" component="DataCollection" context="" type="1" thread="32" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="11:07:18.4021956" date="2-3-2026" component="DataCollection" context="" type="1" thread="32" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="11:07:18.4021956" date="2-3-2026" component="DataCollection" context="" type="1" thread="32" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="11:07:18.4031951" date="2-3-2026" component="DataCollection" context="" type="1" thread="32" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="11:07:18.4031951" date="2-3-2026" component="DataCollection" context="" type="1" thread="32" file="">
+<![LOG[Timer to fetch proxy details started.]LOG]!><time="12:01:42.8982681" date="2-3-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[Config CFG_STR_PROXY_SERVER is ]LOG]!><time="12:01:45.4663973" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[Pausing transmission...]LOG]!><time="12:01:45.5459846" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[enableDebugEvents is 0]LOG]!><time="12:01:45.5459846" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.7634.amd64fre.ge_release.240331-1435]LOG]!><time="12:01:45.5459846" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[Config CFG_STR_PROXY_SERVER is ]LOG]!><time="12:01:45.5459846" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[Pausing transmission...]LOG]!><time="12:01:45.5559940" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[enableDebugEvents is 0]LOG]!><time="12:01:45.5559940" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.7634.amd64fre.ge_release.240331-1435]LOG]!><time="12:01:45.5559940" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[Config CFG_STR_PROXY_SERVER is ]LOG]!><time="12:01:45.5559940" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[Pausing transmission...]LOG]!><time="12:01:45.5559940" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[enableDebugEvents is 0]LOG]!><time="12:01:45.5559940" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.7634.amd64fre.ge_release.240331-1435]LOG]!><time="12:01:45.5559940" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.7634.amd64fre.ge_release.240331-1435]LOG]!><time="12:01:45.5559940" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.7634.amd64fre.ge_release.240331-1435]LOG]!><time="12:01:45.5605793" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.7634.amd64fre.ge_release.240331-1435]LOG]!><time="12:01:45.5605793" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.7634.amd64fre.ge_release.240331-1435]LOG]!><time="12:01:45.5605793" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.7634.amd64fre.ge_release.240331-1435]LOG]!><time="12:01:45.5605793" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.7634.amd64fre.ge_release.240331-1435]LOG]!><time="12:01:45.5605793" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.7634.amd64fre.ge_release.240331-1435]LOG]!><time="12:01:45.5605793" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[Timer to refresh AAD token has started.]LOG]!><time="12:01:45.5605793" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[AAD token is empty. Fetching new AAD token.]LOG]!><time="12:01:45.5659856" date="2-3-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[start to call tokenmanager to get aadtoken...]LOG]!><time="12:01:45.5917716" date="2-3-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[datasensor] existing bookmark for BootData is <![CDATA[{"BookmarkText":"<BookmarkList>\r\n  <Bookmark Channel='System' RecordId='1260' IsCurrent='true'\/>\r\n<\/BookmarkList>"}]]>]LOG]!><time="12:01:45.5958375" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] starting registration for BootData, readExisingEvents=True]LOG]!><time="12:01:45.5958375" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[Resuming transmission...]LOG]!><time="12:01:46.3960511" date="2-3-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[Resuming transmission...]LOG]!><time="12:01:46.3960511" date="2-3-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[Resuming transmission...]LOG]!><time="12:01:46.3960511" date="2-3-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[Successfully fetched AAD device token.]LOG]!><time="12:01:46.3960511" date="2-3-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="12:01:46.7057593" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="12:01:46.7057593" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="12:01:46.7102742" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="12:01:46.7102742" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="12:01:46.7102742" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="12:01:46.7102742" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="12:01:46.7102742" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="12:01:46.7102742" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="12:01:46.7102742" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="12:01:46.7102742" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="12:01:46.7102742" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="12:01:46.7102742" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="12:01:46.7156682" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="12:01:46.7156682" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="12:01:46.7156682" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="12:01:46.7156682" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="12:01:46.7156682" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="12:01:46.7156682" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="12:01:46.7156682" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="12:01:46.7156682" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="12:01:46.7205700" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="12:01:46.7215975" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="12:01:46.7215975" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="12:01:46.7215975" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="12:01:46.7215975" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="12:01:46.7215975" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="12:01:46.7215975" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="12:01:46.7215975" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="12:01:46.7257909" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="12:01:46.7257909" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="12:01:46.7257909" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="12:01:46.7257909" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="12:01:46.7257909" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="12:01:46.7257909" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="12:01:46.7257909" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="12:01:46.7257909" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="12:01:46.7257909" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="12:01:46.7257909" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="12:01:46.7315930" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="12:01:46.7315930" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Sending event SidecarAgent_operationevent through 1DS SDK.]LOG]!><time="12:01:46.7418699" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[EventManager] Finished queueing event SidecarAgent_operationevent to the 1DS pipeline.]LOG]!><time="12:01:46.7418699" date="2-3-2026" component="DataCollection" context="" type="1" thread="10" file="">
+<![LOG[[datasensor] get called, the data is 1]LOG]!><time="12:01:47.8056752" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] received boot event, bootid = 2/3/2026 9:48:12 AM, CoreBootTimeInMilliseconds = 11050, GPTimeInMilliseconds = 0, TotalBootTimeInMilliseconds = 75765, UpdateTimeInMilliseconds = 64715, EventDataXml = <BootReason><EventData xmlns="http://schemas.microsoft.com/win/2004/08/events/event" SystemPowerOffTime="2026-02-01T14:37:53.4830710Z">
+  <Data Name="param1">C:\WINDOWS\system32\winlogon.exe (GILADY-APG1)</Data>
+  <Data Name="param2">GILADY-APG1</Data>
+  <Data Name="param3">No title for this reason could be found</Data>
+  <Data Name="param4">0x500ff</Data>
+  <Data Name="param5">power off</Data>
+  <Data Name="param6"></Data>
+  <Data Name="param7">NT AUTHORITY\SYSTEM</Data>
+</EventData>
+<CustomData>
+  <FullPath>C:\WINDOWS\system32\winlogon.exe</FullPath>
+</CustomData></BootReason>, BootReason = 1074, BootDiskMediaType = 4]LOG]!><time="12:01:47.8056752" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] Queueing to send boot event with bootid = 2/3/2026 9:48:12 AM and correlation Id = a9453cdd-08f8-445c-b4be-addf0d7422f9]LOG]!><time="12:01:47.8221076" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[EventManager] Sending event IntuneManagementExtensionProvider.BootEvent through 1DS SDK.]LOG]!><time="12:01:47.8256518" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[EventManager] Finished queueing event IntuneManagementExtensionProvider.BootEvent to the 1DS pipeline.]LOG]!><time="12:01:47.8256518" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] Dispatched batch of 1 boot events to send]LOG]!><time="12:01:47.8256518" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor]bootdata bookmark is <![CDATA[{"BookmarkText":"<BookmarkList>\r\n  <Bookmark Channel='System' RecordId='2287' IsCurrent='true'\/>\r\n<\/BookmarkList>"}]]>]LOG]!><time="12:01:47.8256518" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] get called, the data is 1]LOG]!><time="12:01:47.9122009" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] received boot event, bootid = 2/3/2026 9:56:20 AM, CoreBootTimeInMilliseconds = 11562, GPTimeInMilliseconds = 0, TotalBootTimeInMilliseconds = 123244, UpdateTimeInMilliseconds = 111682, EventDataXml = <BootReason><EventData xmlns="http://schemas.microsoft.com/win/2004/08/events/event" SystemPowerOffTime="2026-02-03T09:49:27.7400075Z">
+  <Data Name="param1">C:\WINDOWS\servicing\TrustedInstaller.exe (GILADY-APG1)</Data>
+  <Data Name="param2">GILADY-APG1</Data>
+  <Data Name="param3">Operating System: Upgrade (Planned)</Data>
+  <Data Name="param4">0x80020003</Data>
+  <Data Name="param5">restart</Data>
+  <Data Name="param6"></Data>
+  <Data Name="param7">NT AUTHORITY\SYSTEM</Data>
+</EventData>
+<CustomData>
+  <FullPath>C:\WINDOWS\servicing\TrustedInstaller.exe</FullPath>
+  <ProductVersion>10.0.26100.7019</ProductVersion>
+  <ProductName>Microsoft® Windows® Operating System</ProductName>
+  <Publisher>Microsoft Corporation</Publisher>
+  <ProgramId>000095D2D493BFC3D696DD5E45CEFEC50C6500000000</ProgramId>
+  <FileId>0000CEEC553A34A30298D76F49EE63D328E6B64B5155</FileId>
+  <FileVersion>10.0.26100.7019 (WinBuild.160101.0800)</FileVersion>
+</CustomData></BootReason>, BootReason = 1074, BootDiskMediaType = 4]LOG]!><time="12:01:47.9122009" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] Queueing to send boot event with bootid = 2/3/2026 9:56:20 AM and correlation Id = 7fc53d99-be7d-436b-aa4e-a69f889436fd]LOG]!><time="12:01:47.9122009" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[EventManager] Sending event IntuneManagementExtensionProvider.BootEvent through 1DS SDK.]LOG]!><time="12:01:47.9122009" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[EventManager] Finished queueing event IntuneManagementExtensionProvider.BootEvent to the 1DS pipeline.]LOG]!><time="12:01:47.9122009" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] Dispatched batch of 1 boot events to send]LOG]!><time="12:01:47.9122009" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor]bootdata bookmark is <![CDATA[{"BookmarkText":"<BookmarkList>\r\n  <Bookmark Channel='System' RecordId='2422' IsCurrent='true'\/>\r\n<\/BookmarkList>"}]]>]LOG]!><time="12:01:47.9122009" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] get called, the data is 1]LOG]!><time="12:01:48.0388695" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] received boot event, bootid = 2/3/2026 9:59:24 AM, CoreBootTimeInMilliseconds = 10133, GPTimeInMilliseconds = 0, TotalBootTimeInMilliseconds = 20217, UpdateTimeInMilliseconds = 10084, EventDataXml = <BootReason><EventData xmlns="http://schemas.microsoft.com/win/2004/08/events/event" SystemPowerOffTime="2026-02-03T09:58:23.7390796Z">
+  <Data Name="param1">C:\WINDOWS\servicing\TrustedInstaller.exe (GILADY-APG1)</Data>
+  <Data Name="param2">GILADY-APG1</Data>
+  <Data Name="param3">Operating System: Upgrade (Planned)</Data>
+  <Data Name="param4">0x80020003</Data>
+  <Data Name="param5">restart</Data>
+  <Data Name="param6"></Data>
+  <Data Name="param7">NT AUTHORITY\SYSTEM</Data>
+</EventData>
+<CustomData>
+  <FullPath>C:\WINDOWS\servicing\TrustedInstaller.exe</FullPath>
+  <ProductVersion>10.0.26100.7019</ProductVersion>
+  <ProductName>Microsoft® Windows® Operating System</ProductName>
+  <Publisher>Microsoft Corporation</Publisher>
+  <ProgramId>000095D2D493BFC3D696DD5E45CEFEC50C6500000000</ProgramId>
+  <FileId>0000CEEC553A34A30298D76F49EE63D328E6B64B5155</FileId>
+  <FileVersion>10.0.26100.7019 (WinBuild.160101.0800)</FileVersion>
+</CustomData></BootReason>, BootReason = 1074, BootDiskMediaType = 4]LOG]!><time="12:01:48.0438665" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] Queueing to send boot event with bootid = 2/3/2026 9:59:24 AM and correlation Id = 24b9107b-ce13-455e-b0b9-0aaf1d402636]LOG]!><time="12:01:48.0438665" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[EventManager] Sending event IntuneManagementExtensionProvider.BootEvent through 1DS SDK.]LOG]!><time="12:01:48.0438665" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[EventManager] Finished queueing event IntuneManagementExtensionProvider.BootEvent to the 1DS pipeline.]LOG]!><time="12:01:48.0438665" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] Dispatched batch of 1 boot events to send]LOG]!><time="12:01:48.0438665" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor]bootdata bookmark is <![CDATA[{"BookmarkText":"<BookmarkList>\r\n  <Bookmark Channel='System' RecordId='2658' IsCurrent='true'\/>\r\n<\/BookmarkList>"}]]>]LOG]!><time="12:01:48.0438665" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] successfully registered the datasensor for BootData, readExisingEvents=True]LOG]!><time="12:01:48.0438665" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] existing bookmark for LogOnPerfData is ]LOG]!><time="12:01:48.0438665" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] starting registration for LogOnPerfData, readExisingEvents=True]LOG]!><time="12:01:48.0438665" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] get called, the data is 1]LOG]!><time="12:01:48.2100721" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] received logOn perf event, logonId: 2/1/2026 9:42:20 PM, 0, 0, -1, False, []]LOG]!><time="12:01:48.2100721" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] Queueing to send logon event with logonid = 2/1/2026 9:42:20 PM and correlation Id = 55369194-07d3-4939-8165-5ead15030dd5]LOG]!><time="12:01:48.2183360" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[EventManager] Sending event IntuneManagementExtensionProvider.LogOnPerfEvent through 1DS SDK.]LOG]!><time="12:01:48.2183360" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[EventManager] Finished queueing event IntuneManagementExtensionProvider.LogOnPerfEvent to the 1DS pipeline.]LOG]!><time="12:01:48.2183360" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] Queueing to send logon event with logonid = 2/1/2026 9:42:20 PM and correlation Id = 40359806-e68a-4800-b99c-9770946f70e6]LOG]!><time="12:01:48.2183360" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] Dispatched batch of 1 logon events to send]LOG]!><time="12:01:48.2183360" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] logon data bookmark is <![CDATA[{"BookmarkText":"<BookmarkList>\r\n  <Bookmark Channel='Microsoft-Windows-Winlogon\/Operational' RecordId='8' IsCurrent='true'\/>\r\n<\/BookmarkList>"}]]>]LOG]!><time="12:01:48.2183360" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] get called, the data is 1]LOG]!><time="12:01:48.3301620" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] received logOn perf event, logonId: 2/1/2026 2:02:38 PM, 0, 0, -1, False, []]LOG]!><time="12:01:48.3301620" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] Queueing to send logon event with logonid = 2/1/2026 2:02:38 PM and correlation Id = 41875252-3599-4844-96bb-c9c6d0fc0046]LOG]!><time="12:01:48.3301620" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[EventManager] Sending event IntuneManagementExtensionProvider.LogOnPerfEvent through 1DS SDK.]LOG]!><time="12:01:48.3301620" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[EventManager] Finished queueing event IntuneManagementExtensionProvider.LogOnPerfEvent to the 1DS pipeline.]LOG]!><time="12:01:48.3301620" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] Queueing to send logon event with logonid = 2/1/2026 2:02:38 PM and correlation Id = 7b0283a1-e067-478f-9b4d-147d54c33580]LOG]!><time="12:01:48.3341833" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] Dispatched batch of 1 logon events to send]LOG]!><time="12:01:48.3341833" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] logon data bookmark is <![CDATA[{"BookmarkText":"<BookmarkList>\r\n  <Bookmark Channel='Microsoft-Windows-Winlogon\/Operational' RecordId='46' IsCurrent='true'\/>\r\n<\/BookmarkList>"}]]>]LOG]!><time="12:01:48.3341833" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] get called, the data is 1]LOG]!><time="12:01:48.4499990" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] received logOn perf event, logonId: 2/1/2026 2:21:57 PM, 0, 0, -1, False, []]LOG]!><time="12:01:48.4499990" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] Queueing to send logon event with logonid = 2/1/2026 2:21:57 PM and correlation Id = 7acf993d-5621-4e81-9a15-51b61af488de]LOG]!><time="12:01:48.4499990" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[EventManager] Sending event IntuneManagementExtensionProvider.LogOnPerfEvent through 1DS SDK.]LOG]!><time="12:01:48.4499990" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[EventManager] Finished queueing event IntuneManagementExtensionProvider.LogOnPerfEvent to the 1DS pipeline.]LOG]!><time="12:01:48.4499990" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] Queueing to send logon event with logonid = 2/1/2026 2:21:57 PM and correlation Id = 320469f5-2119-45c5-81c0-a98531478f35]LOG]!><time="12:01:48.4499990" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] Dispatched batch of 1 logon events to send]LOG]!><time="12:01:48.4499990" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] logon data bookmark is <![CDATA[{"BookmarkText":"<BookmarkList>\r\n  <Bookmark Channel='Microsoft-Windows-Winlogon\/Operational' RecordId='66' IsCurrent='true'\/>\r\n<\/BookmarkList>"}]]>]LOG]!><time="12:01:48.4499990" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] get called, the data is 1]LOG]!><time="12:01:48.5664073" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] received logOn perf event, logonId: 2/1/2026 2:24:59 PM, 0, 0, -1, False, []]LOG]!><time="12:01:48.5664073" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] Queueing to send logon event with logonid = 2/1/2026 2:24:59 PM and correlation Id = e10eb8d8-7e8f-4fce-b109-b2784642599b]LOG]!><time="12:01:48.5664073" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[EventManager] Sending event IntuneManagementExtensionProvider.LogOnPerfEvent through 1DS SDK.]LOG]!><time="12:01:48.5664073" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[EventManager] Finished queueing event IntuneManagementExtensionProvider.LogOnPerfEvent to the 1DS pipeline.]LOG]!><time="12:01:48.5664073" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] Queueing to send logon event with logonid = 2/1/2026 2:24:59 PM and correlation Id = 7db6944d-ba38-4774-87d1-341179305d40]LOG]!><time="12:01:48.5664073" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] Dispatched batch of 1 logon events to send]LOG]!><time="12:01:48.5664073" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] logon data bookmark is <![CDATA[{"BookmarkText":"<BookmarkList>\r\n  <Bookmark Channel='Microsoft-Windows-Winlogon\/Operational' RecordId='100' IsCurrent='true'\/>\r\n<\/BookmarkList>"}]]>]LOG]!><time="12:01:48.5664073" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] get called, the data is 1]LOG]!><time="12:01:48.6545957" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] received logOn perf event, logonId: 2/1/2026 2:35:07 PM, 0, 0, -1, False, []]LOG]!><time="12:01:48.6545957" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] Queueing to send logon event with logonid = 2/1/2026 2:35:07 PM and correlation Id = 758a9bf3-87f8-4018-ab55-3aeb3f285b11]LOG]!><time="12:01:48.6545957" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[EventManager] Sending event IntuneManagementExtensionProvider.LogOnPerfEvent through 1DS SDK.]LOG]!><time="12:01:48.6575555" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[EventManager] Finished queueing event IntuneManagementExtensionProvider.LogOnPerfEvent to the 1DS pipeline.]LOG]!><time="12:01:48.6575555" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] Queueing to send logon event with logonid = 2/1/2026 2:35:07 PM and correlation Id = e6f03dd3-e6f3-4a6f-9318-f6f3fe6ef785]LOG]!><time="12:01:48.6575555" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] Dispatched batch of 1 logon events to send]LOG]!><time="12:01:48.6575555" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] logon data bookmark is <![CDATA[{"BookmarkText":"<BookmarkList>\r\n  <Bookmark Channel='Microsoft-Windows-Winlogon\/Operational' RecordId='136' IsCurrent='true'\/>\r\n<\/BookmarkList>"}]]>]LOG]!><time="12:01:48.6575555" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] get called, the data is 1]LOG]!><time="12:01:48.7525773" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] received logOn perf event, logonId: 2/2/2026 12:44:40 PM, 0, 0, -1, False, []]LOG]!><time="12:01:48.7525773" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] Queueing to send logon event with logonid = 2/2/2026 12:44:40 PM and correlation Id = 1ec67255-d1fb-4198-aa4d-a3953a556c8c]LOG]!><time="12:01:48.7525773" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[EventManager] Sending event IntuneManagementExtensionProvider.LogOnPerfEvent through 1DS SDK.]LOG]!><time="12:01:48.7605890" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[EventManager] Finished queueing event IntuneManagementExtensionProvider.LogOnPerfEvent to the 1DS pipeline.]LOG]!><time="12:01:48.7605890" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] Queueing to send logon event with logonid = 2/2/2026 12:44:40 PM and correlation Id = f4188a5a-7caa-4cd3-8839-b67e199e3208]LOG]!><time="12:01:48.7605890" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] Dispatched batch of 1 logon events to send]LOG]!><time="12:01:48.7605890" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] logon data bookmark is <![CDATA[{"BookmarkText":"<BookmarkList>\r\n  <Bookmark Channel='Microsoft-Windows-Winlogon\/Operational' RecordId='180' IsCurrent='true'\/>\r\n<\/BookmarkList>"}]]>]LOG]!><time="12:01:48.7605890" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] get called, the data is 1]LOG]!><time="12:01:48.8833511" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] received logOn perf event, logonId: 2/3/2026 9:29:53 AM, 6624, 0, 0, False, []]LOG]!><time="12:01:48.8833511" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] Queueing to send logon event with logonid = 2/3/2026 9:29:53 AM and correlation Id = c7f16e89-6759-4999-9bd6-42711017a13c]LOG]!><time="12:01:48.8833511" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[EventManager] Sending event IntuneManagementExtensionProvider.LogOnPerfEvent through 1DS SDK.]LOG]!><time="12:01:48.8833511" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[EventManager] Finished queueing event IntuneManagementExtensionProvider.LogOnPerfEvent to the 1DS pipeline.]LOG]!><time="12:01:48.8833511" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] Queueing to send logon event with logonid = 2/3/2026 9:29:53 AM and correlation Id = 407b1872-38d5-49e6-973e-9d068286be51]LOG]!><time="12:01:48.8833511" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] Dispatched batch of 1 logon events to send]LOG]!><time="12:01:48.8833511" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] logon data bookmark is <![CDATA[{"BookmarkText":"<BookmarkList>\r\n  <Bookmark Channel='Microsoft-Windows-Winlogon\/Operational' RecordId='270' IsCurrent='true'\/>\r\n<\/BookmarkList>"}]]>]LOG]!><time="12:01:48.8833511" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] get called, the data is 1]LOG]!><time="12:05:14.5199303" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] received logOn perf event, logonId: 2/3/2026 10:00:11 AM, 15392, 0, 0, False, []]LOG]!><time="12:05:14.5199303" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] Queueing to send logon event with logonid = 2/3/2026 10:00:11 AM and correlation Id = d0e0bbc8-4584-4dd5-9312-0d093fe74cd0]LOG]!><time="12:05:14.5199303" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[EventManager] Sending event IntuneManagementExtensionProvider.LogOnPerfEvent through 1DS SDK.]LOG]!><time="12:05:14.5199303" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[EventManager] Finished queueing event IntuneManagementExtensionProvider.LogOnPerfEvent to the 1DS pipeline.]LOG]!><time="12:05:14.5199303" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] Queueing to send logon event with logonid = 2/3/2026 10:00:11 AM and correlation Id = bd4117cd-f66c-49ae-84e8-c509d30b3fb0]LOG]!><time="12:05:14.5199303" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] Dispatched batch of 1 logon events to send]LOG]!><time="12:05:14.5199303" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] logon data bookmark is <![CDATA[{"BookmarkText":"<BookmarkList>\r\n  <Bookmark Channel='Microsoft-Windows-Winlogon\/Operational' RecordId='424' IsCurrent='true'\/>\r\n<\/BookmarkList>"}]]>]LOG]!><time="12:05:14.5199303" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] successfully registered the datasensor for LogOnPerfData, readExisingEvents=True]LOG]!><time="12:05:14.5199303" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] existing bookmark for AppUsageData is ]LOG]!><time="12:05:14.5199303" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] starting registration for AppUsageData, readExisingEvents=True]LOG]!><time="12:05:14.5199303" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] successfully registered the datasensor for AppUsageData, readExisingEvents=True]LOG]!><time="12:05:14.5199303" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] existing bookmark for HardwareReadinessData is ]LOG]!><time="12:05:14.5199303" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] starting registration for HardwareReadinessData, readExisingEvents=True]LOG]!><time="12:05:14.5199303" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] successfully registered the datasensor for HardwareReadinessData, readExisingEvents=True]LOG]!><time="12:05:14.5199303" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] existing bookmark for DeviceInventoryData is ]LOG]!><time="12:05:14.5199303" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] starting registration for DeviceInventoryData, readExisingEvents=True]LOG]!><time="12:05:14.5199303" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] successfully registered the datasensor for DeviceInventoryData, readExisingEvents=True]LOG]!><time="12:05:14.5199303" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] existing bookmark for DriverInventoryData is ]LOG]!><time="12:05:14.5199303" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] starting registration for DriverInventoryData, readExisingEvents=True]LOG]!><time="12:05:14.5199303" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] successfully registered the datasensor for DriverInventoryData, readExisingEvents=True]LOG]!><time="12:05:14.5199303" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] existing bookmark for ApplicationData is ]LOG]!><time="12:05:14.5355781" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] Querying AppCrash/Hang events]LOG]!><time="12:05:14.5355781" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] get called, the data is 1]LOG]!><time="12:05:14.6557591" date="2-3-2026" component="DataCollection" context="" type="1" thread="22" file="">
+<![LOG[[datasensor] Sending hardware readiness event event with signal time 2/3/2026 10:05:14 AM and correlation Id = b221ecc3-97bb-4e7c-a46b-c58d307dae35]LOG]!><time="12:05:14.6625627" date="2-3-2026" component="DataCollection" context="" type="1" thread="22" file="">
+<![LOG[[EventManager] Sending event IntuneManagementExtensionProvider.HardwareReadinessEvent through 1DS SDK.]LOG]!><time="12:05:14.6625627" date="2-3-2026" component="DataCollection" context="" type="1" thread="22" file="">
+<![LOG[[EventManager] Finished queueing event IntuneManagementExtensionProvider.HardwareReadinessEvent to the 1DS pipeline.]LOG]!><time="12:05:14.6625627" date="2-3-2026" component="DataCollection" context="" type="1" thread="22" file="">
+<![LOG[[datasensor] Hardware readiness data sent]LOG]!><time="12:05:14.6625627" date="2-3-2026" component="DataCollection" context="" type="1" thread="22" file="">
+<![LOG[[datasensor] Calling sensor handler for AppCrash/Hang]LOG]!><time="12:05:14.7407766" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] get called, the data is 1]LOG]!><time="12:05:14.7407766" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] received application event, RecordId: 389, 1001 , <![CDATA[<EventData xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <Data Name="Bucket"></Data>
+  <Data Name="BucketType">0</Data>
+  <Data Name="EventName">LiveKernelEvent</Data>
+  <Data Name="Response">Not available</Data>
+  <Data Name="CabId">0</Data>
+  <Data Name="P1">1a8</Data>
+  <Data Name="P2">a</Data>
+  <Data Name="P3">0</Data>
+  <Data Name="P4">0</Data>
+  <Data Name="P5">0</Data>
+  <Data Name="P6">10_0_26100</Data>
+  <Data Name="P7">0_0</Data>
+  <Data Name="P8">256_1</Data>
+  <Data Name="P9"></Data>
+  <Data Name="P10"></Data>
+  <Data Name="AttachedFiles">
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20260201-0609.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-398031-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.d3d9a7e2-3f7c-464a-8475-8c73925c959b.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.a54a4739-f668-4061-a2b8-04afbbf417de.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.9d0ca622-c63d-4c27-a58a-d70c0d9bf819.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.0755efee-0a6e-406d-9eda-8a6bc84b9ea9.tmp.xml</Data>
+  <Data Name="StorePath">\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_1a8_3748bd66a7bb3ae96eac533a61a9ac86d47cc_00000000_cab_7bd0051c-6279-425a-8210-21e9bbb1280c</Data>
+  <Data Name="AnalysisSymbol"></Data>
+  <Data Name="Rechecking">0</Data>
+  <Data Name="ReportId">7bd0051c-6279-425a-8210-21e9bbb1280c</Data>
+  <Data Name="ReportStatus">4</Data>
+  <Data Name="HashedBucket"></Data>
+  <Data Name="CabGuid">0</Data>
+</EventData>
+]]>]LOG]!><time="12:05:14.7407766" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] skipping application event before first enrollment, RecordId: 389, <![CDATA[<EventData xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <Data Name="Bucket"></Data>
+  <Data Name="BucketType">0</Data>
+  <Data Name="EventName">LiveKernelEvent</Data>
+  <Data Name="Response">Not available</Data>
+  <Data Name="CabId">0</Data>
+  <Data Name="P1">1a8</Data>
+  <Data Name="P2">a</Data>
+  <Data Name="P3">0</Data>
+  <Data Name="P4">0</Data>
+  <Data Name="P5">0</Data>
+  <Data Name="P6">10_0_26100</Data>
+  <Data Name="P7">0_0</Data>
+  <Data Name="P8">256_1</Data>
+  <Data Name="P9"></Data>
+  <Data Name="P10"></Data>
+  <Data Name="AttachedFiles">
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20260201-0609.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-398031-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.d3d9a7e2-3f7c-464a-8475-8c73925c959b.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.a54a4739-f668-4061-a2b8-04afbbf417de.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.9d0ca622-c63d-4c27-a58a-d70c0d9bf819.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.0755efee-0a6e-406d-9eda-8a6bc84b9ea9.tmp.xml</Data>
+  <Data Name="StorePath">\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_1a8_3748bd66a7bb3ae96eac533a61a9ac86d47cc_00000000_cab_7bd0051c-6279-425a-8210-21e9bbb1280c</Data>
+  <Data Name="AnalysisSymbol"></Data>
+  <Data Name="Rechecking">0</Data>
+  <Data Name="ReportId">7bd0051c-6279-425a-8210-21e9bbb1280c</Data>
+  <Data Name="ReportStatus">4</Data>
+  <Data Name="HashedBucket"></Data>
+  <Data Name="CabGuid">0</Data>
+</EventData>
+]]>]LOG]!><time="12:05:14.7407766" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] received application event, RecordId: 707, 1000 , <![CDATA[<EventData xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <Data Name="AppName">wwahost.exe</Data>
+  <Data Name="AppVersion">10.0.26100.1</Data>
+  <Data Name="AppTimeStamp">725a9109</Data>
+  <Data Name="ModuleName">MrmCoreR.dll</Data>
+  <Data Name="ModuleVersion">10.0.26100.712</Data>
+  <Data Name="ModuleTimeStamp">9db00393</Data>
+  <Data Name="ExceptionCode">c0000005</Data>
+  <Data Name="FaultingOffset">000000000003db26</Data>
+  <Data Name="ProcessId">0x2204</Data>
+  <Data Name="ProcessCreationTime">0x1dc9387f76ce3bc</Data>
+  <Data Name="AppPath">C:\WINDOWS\system32\wwahost.exe</Data>
+  <Data Name="ModulePath">C:\Windows\System32\MrmCoreR.dll</Data>
+  <Data Name="IntegratorReportId">99025687-9478-46a2-8963-03d0171f3490</Data>
+  <Data Name="PackageFullName">Microsoft.Windows.CloudExperienceHost_10.0.26100.1_neutral_neutral_cw5n1h2txyewy</Data>
+  <Data Name="PackageRelativeAppId">App</Data>
+</EventData>
+<CustomData>
+  <FullPath>C:\WINDOWS\system32\wwahost.exe</FullPath>
+  <ProductVersion>10.0.26100.7019</ProductVersion>
+  <ProductName>Microsoft® Windows® Operating System</ProductName>
+  <Publisher>Microsoft Corporation</Publisher>
+  <ProgramId>00007DBF12012CBDDDDBBFA75586CD9BA8D100000000</ProgramId>
+  <FileId>00003A231E874A915890CDA781248C91401D273B5B8B</FileId>
+  <FileVersion>10.0.26100.7019 (WinBuild.160101.0800)</FileVersion>
+</CustomData>]]>]LOG]!><time="12:05:14.7407766" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] skipping application event before first enrollment, RecordId: 707, <![CDATA[<EventData xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <Data Name="AppName">wwahost.exe</Data>
+  <Data Name="AppVersion">10.0.26100.1</Data>
+  <Data Name="AppTimeStamp">725a9109</Data>
+  <Data Name="ModuleName">MrmCoreR.dll</Data>
+  <Data Name="ModuleVersion">10.0.26100.712</Data>
+  <Data Name="ModuleTimeStamp">9db00393</Data>
+  <Data Name="ExceptionCode">c0000005</Data>
+  <Data Name="FaultingOffset">000000000003db26</Data>
+  <Data Name="ProcessId">0x2204</Data>
+  <Data Name="ProcessCreationTime">0x1dc9387f76ce3bc</Data>
+  <Data Name="AppPath">C:\WINDOWS\system32\wwahost.exe</Data>
+  <Data Name="ModulePath">C:\Windows\System32\MrmCoreR.dll</Data>
+  <Data Name="IntegratorReportId">99025687-9478-46a2-8963-03d0171f3490</Data>
+  <Data Name="PackageFullName">Microsoft.Windows.CloudExperienceHost_10.0.26100.1_neutral_neutral_cw5n1h2txyewy</Data>
+  <Data Name="PackageRelativeAppId">App</Data>
+</EventData>
+<CustomData>
+  <FullPath>C:\WINDOWS\system32\wwahost.exe</FullPath>
+  <ProductVersion>10.0.26100.7019</ProductVersion>
+  <ProductName>Microsoft® Windows® Operating System</ProductName>
+  <Publisher>Microsoft Corporation</Publisher>
+  <ProgramId>00007DBF12012CBDDDDBBFA75586CD9BA8D100000000</ProgramId>
+  <FileId>00003A231E874A915890CDA781248C91401D273B5B8B</FileId>
+  <FileVersion>10.0.26100.7019 (WinBuild.160101.0800)</FileVersion>
+</CustomData>]]>]LOG]!><time="12:05:14.7407766" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] received application event, RecordId: 1295, 1000 , <![CDATA[<EventData xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <Data Name="AppName">bad_module_info</Data>
+  <Data Name="AppVersion">0.0.0.0</Data>
+  <Data Name="AppTimeStamp">00000000</Data>
+  <Data Name="ModuleName">unknown</Data>
+  <Data Name="ModuleVersion">0.0.0.0</Data>
+  <Data Name="ModuleTimeStamp">00000000</Data>
+  <Data Name="ExceptionCode">00000000</Data>
+  <Data Name="FaultingOffset">0000000000000000</Data>
+  <Data Name="ProcessId">0xeac</Data>
+  <Data Name="ProcessCreationTime">0x1dc94f2631adda0</Data>
+  <Data Name="AppPath">bad_module_info</Data>
+  <Data Name="ModulePath">unknown</Data>
+  <Data Name="IntegratorReportId">6b8eca09-48c7-4e9b-91ff-3454b74bc975</Data>
+  <Data Name="PackageFullName"></Data>
+  <Data Name="PackageRelativeAppId"></Data>
+</EventData>
+<CustomData>
+  <FullPath>bad_module_info</FullPath>
+</CustomData>]]>]LOG]!><time="12:05:14.7407766" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] Queueing to send AppCrash event with with recordid = 1295 and correlation Id = 70f53830-8698-49da-9894-96277007b88d]LOG]!><time="12:05:14.7407766" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[EventManager] Sending event IntuneManagementExtensionProvider.AppCrashEvent through 1DS SDK.]LOG]!><time="12:05:14.7407766" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[EventManager] Finished queueing event IntuneManagementExtensionProvider.AppCrashEvent to the 1DS pipeline.]LOG]!><time="12:05:14.7407766" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] Dispatched batch of 1 Application crash/hang events to send]LOG]!><time="12:05:14.7407766" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] application data bookmark is <![CDATA[{"BookmarkText":"<BookmarkList>\r\n  <Bookmark Channel='Application' RecordId='2112' IsCurrent='true'\/>\r\n<\/BookmarkList>"}]]>]LOG]!><time="12:05:14.7407766" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] existing bookmark for CpuDailyData is ]LOG]!><time="12:05:14.7508673" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] starting registration for CpuDailyData, readExisingEvents=True]LOG]!><time="12:05:14.7508673" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] successfully registered the datasensor for CpuDailyData, readExisingEvents=True]LOG]!><time="12:05:14.7882616" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] existing bookmark for MemoryUsageData is ]LOG]!><time="12:05:14.7882616" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] starting registration for MemoryUsageData, readExisingEvents=True]LOG]!><time="12:05:14.7882616" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] successfully registered the datasensor for MemoryUsageData, readExisingEvents=True]LOG]!><time="12:05:14.8198287" date="2-3-2026" component="DataCollection" context="" type="1" thread="16" file="">
+<![LOG[[datasensor] get called, the data is 1]LOG]!><time="12:05:16.4330737" date="2-3-2026" component="DataCollection" context="" type="1" thread="9" file="">
+<![LOG[[datasensor] Sending device inventory event with signal time 2/3/2026 10:05:16 AM and correlation Id = fc456486-c277-42bb-9478-f0ee9f91c567]LOG]!><time="12:05:16.4330737" date="2-3-2026" component="DataCollection" context="" type="1" thread="9" file="">
+<![LOG[[EventManager] Sending event IntuneManagementExtensionProvider.DeviceInventoryEvent through 1DS SDK.]LOG]!><time="12:05:16.4330737" date="2-3-2026" component="DataCollection" context="" type="1" thread="9" file="">
+<![LOG[[EventManager] Finished queueing event IntuneManagementExtensionProvider.DeviceInventoryEvent to the 1DS pipeline.]LOG]!><time="12:05:16.4350793" date="2-3-2026" component="DataCollection" context="" type="1" thread="9" file="">
+<![LOG[[datasensor] Device inventory data sent]LOG]!><time="12:05:16.4350793" date="2-3-2026" component="DataCollection" context="" type="1" thread="9" file="">
+<![LOG[[datasensor] get called, the data is 1]LOG]!><time="12:05:16.5967353" date="2-3-2026" component="DataCollection" context="" type="1" thread="24" file="">
+<![LOG[[datasensor] Sending App usage event with signal time 2/3/2026 10:05:16 AM and correlation Id = 1161eae6-1d2f-41ac-ad41-add36e77093a]LOG]!><time="12:05:16.5967353" date="2-3-2026" component="DataCollection" context="" type="1" thread="24" file="">
+<![LOG[[EventManager] Sending event IntuneManagementExtensionProvider.AppUsageEvent through 1DS SDK.]LOG]!><time="12:05:16.5967353" date="2-3-2026" component="DataCollection" context="" type="1" thread="24" file="">
+<![LOG[[EventManager] Finished queueing event IntuneManagementExtensionProvider.AppUsageEvent to the 1DS pipeline.]LOG]!><time="12:05:16.5967353" date="2-3-2026" component="DataCollection" context="" type="1" thread="24" file="">
+<![LOG[[datasensor] app usage data sent]LOG]!><time="12:05:16.6035825" date="2-3-2026" component="DataCollection" context="" type="1" thread="24" file="">
+<![LOG[[datasensor] get called, the data is 1]LOG]!><time="12:05:16.6035825" date="2-3-2026" component="DataCollection" context="" type="1" thread="24" file="">
+<![LOG[[datasensor] Sending App usage event with signal time 2/3/2026 10:05:16 AM and correlation Id = d3ef84a0-d23b-4ce8-b11a-732c0274153d]LOG]!><time="12:05:16.6035825" date="2-3-2026" component="DataCollection" context="" type="1" thread="24" file="">
+<![LOG[[EventManager] Sending event IntuneManagementExtensionProvider.AppUsageEvent through 1DS SDK.]LOG]!><time="12:05:16.6035825" date="2-3-2026" component="DataCollection" context="" type="1" thread="24" file="">
+<![LOG[[EventManager] Finished queueing event IntuneManagementExtensionProvider.AppUsageEvent to the 1DS pipeline.]LOG]!><time="12:05:16.6035825" date="2-3-2026" component="DataCollection" context="" type="1" thread="24" file="">
+<![LOG[[datasensor] app usage data sent]LOG]!><time="12:05:16.6035825" date="2-3-2026" component="DataCollection" context="" type="1" thread="24" file="">
+<![LOG[[datasensor] get called, the data is 1]LOG]!><time="12:05:16.6035825" date="2-3-2026" component="DataCollection" context="" type="1" thread="24" file="">
+<![LOG[[datasensor] Sending App usage event with signal time 2/3/2026 10:05:16 AM and correlation Id = 0e553715-251e-4156-afef-3a94adad25a8]LOG]!><time="12:05:16.6035825" date="2-3-2026" component="DataCollection" context="" type="1" thread="24" file="">
+<![LOG[[EventManager] Sending event IntuneManagementExtensionProvider.AppUsageEvent through 1DS SDK.]LOG]!><time="12:05:16.6035825" date="2-3-2026" component="DataCollection" context="" type="1" thread="24" file="">
+<![LOG[[EventManager] Finished queueing event IntuneManagementExtensionProvider.AppUsageEvent to the 1DS pipeline.]LOG]!><time="12:05:16.6035825" date="2-3-2026" component="DataCollection" context="" type="1" thread="24" file="">
+<![LOG[[datasensor] app usage data sent]LOG]!><time="12:05:16.6035825" date="2-3-2026" component="DataCollection" context="" type="1" thread="24" file="">
+<![LOG[Timer to fetch proxy details started.]LOG]!><time="12:34:57.5565868" date="2-3-2026" component="DataCollection" context="" type="1" thread="5" file="">
+<![LOG[Config CFG_STR_PROXY_SERVER is ]LOG]!><time="12:35:00.1029701" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[Pausing transmission...]LOG]!><time="12:35:00.1868193" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[enableDebugEvents is 0]LOG]!><time="12:35:00.1868193" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.7634.amd64fre.ge_release.240331-1435]LOG]!><time="12:35:00.1888271" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[Config CFG_STR_PROXY_SERVER is ]LOG]!><time="12:35:00.1908335" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[Pausing transmission...]LOG]!><time="12:35:00.1908335" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[enableDebugEvents is 0]LOG]!><time="12:35:00.1908335" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.7634.amd64fre.ge_release.240331-1435]LOG]!><time="12:35:00.1928392" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[Config CFG_STR_PROXY_SERVER is ]LOG]!><time="12:35:00.1928392" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[Pausing transmission...]LOG]!><time="12:35:00.1928392" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[enableDebugEvents is 0]LOG]!><time="12:35:00.1928392" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.7634.amd64fre.ge_release.240331-1435]LOG]!><time="12:35:00.1928392" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.7634.amd64fre.ge_release.240331-1435]LOG]!><time="12:35:00.1948456" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.7634.amd64fre.ge_release.240331-1435]LOG]!><time="12:35:00.1948456" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.7634.amd64fre.ge_release.240331-1435]LOG]!><time="12:35:00.1948456" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.7634.amd64fre.ge_release.240331-1435]LOG]!><time="12:35:00.1968514" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.7634.amd64fre.ge_release.240331-1435]LOG]!><time="12:35:00.1968514" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.7634.amd64fre.ge_release.240331-1435]LOG]!><time="12:35:00.1978564" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[EventManager] Overriding OS version property to 10.0.26100.7634.amd64fre.ge_release.240331-1435]LOG]!><time="12:35:00.1978564" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[Timer to refresh AAD token has started.]LOG]!><time="12:35:00.1978564" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[AAD token is empty. Fetching new AAD token.]LOG]!><time="12:35:00.1998634" date="2-3-2026" component="DataCollection" context="" type="1" thread="13" file="">
+<![LOG[start to call tokenmanager to get aadtoken...]LOG]!><time="12:35:00.2139747" date="2-3-2026" component="DataCollection" context="" type="1" thread="13" file="">
+<![LOG[[datasensor] existing bookmark for BootData is <![CDATA[{"BookmarkText":"<BookmarkList>\r\n  <Bookmark Channel='System' RecordId='2658' IsCurrent='true'\/>\r\n<\/BookmarkList>"}]]>]LOG]!><time="12:35:00.2298306" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] starting registration for BootData, readExisingEvents=True]LOG]!><time="12:35:00.2298306" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[Resuming transmission...]LOG]!><time="12:35:00.2499910" date="2-3-2026" component="DataCollection" context="" type="1" thread="13" file="">
+<![LOG[Resuming transmission...]LOG]!><time="12:35:00.2499910" date="2-3-2026" component="DataCollection" context="" type="1" thread="13" file="">
+<![LOG[Resuming transmission...]LOG]!><time="12:35:00.2499910" date="2-3-2026" component="DataCollection" context="" type="1" thread="13" file="">
+<![LOG[Successfully fetched AAD device token.]LOG]!><time="12:35:00.2499910" date="2-3-2026" component="DataCollection" context="" type="1" thread="13" file="">
+<![LOG[[datasensor] successfully registered the datasensor for BootData, readExisingEvents=True]LOG]!><time="12:35:00.2933859" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] existing bookmark for LogOnPerfData is <![CDATA[{"BookmarkText":"<BookmarkList>\r\n  <Bookmark Channel='Microsoft-Windows-Winlogon\/Operational' RecordId='424' IsCurrent='true'\/>\r\n<\/BookmarkList>"}]]>]LOG]!><time="12:35:00.2933859" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] starting registration for LogOnPerfData, readExisingEvents=True]LOG]!><time="12:35:00.2933859" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] successfully registered the datasensor for LogOnPerfData, readExisingEvents=True]LOG]!><time="12:35:00.3414499" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] existing bookmark for AppUsageData is ]LOG]!><time="12:35:00.3414499" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] starting registration for AppUsageData, readExisingEvents=True]LOG]!><time="12:35:00.3414499" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] successfully registered the datasensor for AppUsageData, readExisingEvents=True]LOG]!><time="12:35:00.3414499" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] existing bookmark for HardwareReadinessData is ]LOG]!><time="12:35:00.3414499" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] starting registration for HardwareReadinessData, readExisingEvents=True]LOG]!><time="12:35:00.3414499" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] successfully registered the datasensor for HardwareReadinessData, readExisingEvents=True]LOG]!><time="12:35:00.3414499" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] existing bookmark for DeviceInventoryData is ]LOG]!><time="12:35:00.3414499" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] starting registration for DeviceInventoryData, readExisingEvents=True]LOG]!><time="12:35:00.3414499" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] successfully registered the datasensor for DeviceInventoryData, readExisingEvents=True]LOG]!><time="12:35:00.3414499" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] existing bookmark for DriverInventoryData is ]LOG]!><time="12:35:00.3434561" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] starting registration for DriverInventoryData, readExisingEvents=True]LOG]!><time="12:35:00.3434561" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] successfully registered the datasensor for DriverInventoryData, readExisingEvents=True]LOG]!><time="12:35:00.3434561" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] existing bookmark for ApplicationData is <![CDATA[{"BookmarkText":"<BookmarkList>\r\n  <Bookmark Channel='Application' RecordId='2112' IsCurrent='true'\/>\r\n<\/BookmarkList>"}]]>]LOG]!><time="12:35:00.3530504" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] Querying AppCrash/Hang events]LOG]!><time="12:35:00.3552112" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] Calling sensor handler for AppCrash/Hang]LOG]!><time="12:35:00.8248376" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] get called, the data is 1]LOG]!><time="12:35:00.8328804" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] received application event, RecordId: 2124, 1001 , <![CDATA[<EventData xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <Data Name="Bucket"></Data>
+  <Data Name="BucketType">0</Data>
+  <Data Name="EventName">LiveKernelEvent</Data>
+  <Data Name="Response">Not available</Data>
+  <Data Name="CabId">0</Data>
+  <Data Name="P1">1a8</Data>
+  <Data Name="P2">a</Data>
+  <Data Name="P3">0</Data>
+  <Data Name="P4">0</Data>
+  <Data Name="P5">0</Data>
+  <Data Name="P6">10_0_26100</Data>
+  <Data Name="P7">0_0</Data>
+  <Data Name="P8">256_1</Data>
+  <Data Name="P9"></Data>
+  <Data Name="P10"></Data>
+  <Data Name="AttachedFiles">
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20260201-0609.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-398031-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.d3d9a7e2-3f7c-464a-8475-8c73925c959b.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.a54a4739-f668-4061-a2b8-04afbbf417de.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.9d0ca622-c63d-4c27-a58a-d70c0d9bf819.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.0755efee-0a6e-406d-9eda-8a6bc84b9ea9.tmp.xml</Data>
+  <Data Name="StorePath">\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_1a8_3748bd66a7bb3ae96eac533a61a9ac86d47cc_00000000_cab_7bd0051c-6279-425a-8210-21e9bbb1280c</Data>
+  <Data Name="AnalysisSymbol"></Data>
+  <Data Name="Rechecking">0</Data>
+  <Data Name="ReportId">7bd0051c-6279-425a-8210-21e9bbb1280c</Data>
+  <Data Name="ReportStatus">2055</Data>
+  <Data Name="HashedBucket"></Data>
+  <Data Name="CabGuid">0</Data>
+</EventData>
+]]>]LOG]!><time="12:35:00.8328804" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] Received a non AppCrash/Hang event from sensor library. EventId is: 1001]LOG]!><time="12:35:00.8328804" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] Dispatched batch of 0 Application crash/hang events to send]LOG]!><time="12:35:00.8328804" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] application data bookmark is <![CDATA[{"BookmarkText":"<BookmarkList>\r\n  <Bookmark Channel='Application' RecordId='2150' IsCurrent='true'\/>\r\n<\/BookmarkList>"}]]>]LOG]!><time="12:35:00.8328804" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] existing bookmark for CpuDailyData is ]LOG]!><time="12:35:00.8549495" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] starting registration for CpuDailyData, readExisingEvents=True]LOG]!><time="12:35:00.8549495" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] successfully registered the datasensor for CpuDailyData, readExisingEvents=True]LOG]!><time="12:35:00.9131169" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] existing bookmark for MemoryUsageData is ]LOG]!><time="12:35:00.9131169" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] starting registration for MemoryUsageData, readExisingEvents=True]LOG]!><time="12:35:00.9131169" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] successfully registered the datasensor for MemoryUsageData, readExisingEvents=True]LOG]!><time="12:35:00.9651660" date="2-3-2026" component="DataCollection" context="" type="1" thread="11" file="">
+<![LOG[[datasensor] existing bookmark for ApplicationData is <![CDATA[{"BookmarkText":"<BookmarkList>\r\n  <Bookmark Channel='Application' RecordId='2150' IsCurrent='true'\/>\r\n<\/BookmarkList>"}]]>]LOG]!><time="14:17:13.1706336" date="2-3-2026" component="DataCollection" context="" type="1" thread="93" file="">
+<![LOG[[datasensor] Querying AppCrash/Hang events]LOG]!><time="14:17:13.1726354" date="2-3-2026" component="DataCollection" context="" type="1" thread="93" file="">
+<![LOG[[datasensor] Calling sensor handler for AppCrash/Hang]LOG]!><time="14:17:13.4360481" date="2-3-2026" component="DataCollection" context="" type="1" thread="93" file="">
+<![LOG[[datasensor] get called, the data is 1]LOG]!><time="14:17:13.4360481" date="2-3-2026" component="DataCollection" context="" type="1" thread="93" file="">
+<![LOG[[datasensor] received application event, RecordId: 2163, 1000 , <![CDATA[<EventData xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <Data Name="AppName">IdentityAgent.exe</Data>
+  <Data Name="AppVersion">81.70.0.0</Data>
+  <Data Name="AppTimeStamp">65a66c36</Data>
+  <Data Name="ModuleName">ntdll.dll</Data>
+  <Data Name="ModuleVersion">10.0.26100.7623</Data>
+  <Data Name="ModuleTimeStamp">7d5e5114</Data>
+  <Data Name="ExceptionCode">c0000005</Data>
+  <Data Name="FaultingOffset">0006e85c</Data>
+  <Data Name="ProcessId">0x1408</Data>
+  <Data Name="ProcessCreationTime">0x1dc94f591155bdc</Data>
+  <Data Name="AppPath">C:\Program Files (x86)\CheckPoint\Identity Agent\IdentityAgent.exe</Data>
+  <Data Name="ModulePath">C:\WINDOWS\SYSTEM32\ntdll.dll</Data>
+  <Data Name="IntegratorReportId">57fe6609-ea11-4af2-94e7-5607247e8956</Data>
+  <Data Name="PackageFullName"></Data>
+  <Data Name="PackageRelativeAppId"></Data>
+</EventData>
+<CustomData>
+  <FullPath>C:\Program Files (x86)\CheckPoint\Identity Agent\IdentityAgent.exe</FullPath>
+  <ProductVersion>81,070,0000</ProductVersion>
+  <ProductName>Check Point Identity Agent</ProductName>
+  <Publisher>Check Point Software Technologies Ltd.</Publisher>
+  <ProgramId>0000AB7246ECE252A7A0D57FD3E80647016300000000</ProgramId>
+  <FileId>0000CC3C83224FD5968D4AA7C8470BF7C6308A5FD1B4</FileId>
+  <FileVersion>81,070,0000</FileVersion>
+  <ReportId>57fe6609-ea11-4af2-94e7-5607247e8956</ReportId>
+  <FaultBucket>0</FaultBucket>
+  <WatsonEventName>APPCRASH</WatsonEventName>
+</CustomData>]]>]LOG]!><time="14:17:13.4360481" date="2-3-2026" component="DataCollection" context="" type="1" thread="93" file="">
+<![LOG[[datasensor] Queueing to send AppCrash event with with recordid = 2163 and correlation Id = 9490a230-38f8-47cb-85aa-266e85ae66cb]LOG]!><time="14:17:13.4384678" date="2-3-2026" component="DataCollection" context="" type="1" thread="93" file="">
+<![LOG[[datasensor] received application event, RecordId: 2165, 1001 , <![CDATA[<EventData xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <Data Name="Bucket"></Data>
+  <Data Name="BucketType">0</Data>
+  <Data Name="EventName">LiveKernelEvent</Data>
+  <Data Name="Response">Not available</Data>
+  <Data Name="CabId">0</Data>
+  <Data Name="P1">1a8</Data>
+  <Data Name="P2">a</Data>
+  <Data Name="P3">0</Data>
+  <Data Name="P4">0</Data>
+  <Data Name="P5">0</Data>
+  <Data Name="P6">10_0_26100</Data>
+  <Data Name="P7">0_0</Data>
+  <Data Name="P8">256_1</Data>
+  <Data Name="P9"></Data>
+  <Data Name="P10"></Data>
+  <Data Name="AttachedFiles">
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20260201-0609.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-398031-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.d3d9a7e2-3f7c-464a-8475-8c73925c959b.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.a54a4739-f668-4061-a2b8-04afbbf417de.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.9d0ca622-c63d-4c27-a58a-d70c0d9bf819.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.0755efee-0a6e-406d-9eda-8a6bc84b9ea9.tmp.xml</Data>
+  <Data Name="StorePath">\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_1a8_3748bd66a7bb3ae96eac533a61a9ac86d47cc_00000000_cab_7bd0051c-6279-425a-8210-21e9bbb1280c</Data>
+  <Data Name="AnalysisSymbol"></Data>
+  <Data Name="Rechecking">0</Data>
+  <Data Name="ReportId">7bd0051c-6279-425a-8210-21e9bbb1280c</Data>
+  <Data Name="ReportStatus">2055</Data>
+  <Data Name="HashedBucket"></Data>
+  <Data Name="CabGuid">0</Data>
+</EventData>
+]]>]LOG]!><time="14:17:13.4394680" date="2-3-2026" component="DataCollection" context="" type="1" thread="93" file="">
+<![LOG[[datasensor] Received a non AppCrash/Hang event from sensor library. EventId is: 1001]LOG]!><time="14:17:13.4404675" date="2-3-2026" component="DataCollection" context="" type="1" thread="93" file="">
+<![LOG[[EventManager] Sending event IntuneManagementExtensionProvider.AppCrashEvent through 1DS SDK.]LOG]!><time="14:17:13.4564649" date="2-3-2026" component="DataCollection" context="" type="1" thread="93" file="">
+<![LOG[[EventManager] Finished queueing event IntuneManagementExtensionProvider.AppCrashEvent to the 1DS pipeline.]LOG]!><time="14:17:13.4564649" date="2-3-2026" component="DataCollection" context="" type="1" thread="93" file="">
+<![LOG[[datasensor] Dispatched batch of 1 Application crash/hang events to send]LOG]!><time="14:17:13.4584683" date="2-3-2026" component="DataCollection" context="" type="1" thread="93" file="">
+<![LOG[[datasensor] application data bookmark is <![CDATA[{"BookmarkText":"<BookmarkList>\r\n  <Bookmark Channel='Application' RecordId='2231' IsCurrent='true'\/>\r\n<\/BookmarkList>"}]]>]LOG]!><time="14:17:13.4584683" date="2-3-2026" component="DataCollection" context="" type="1" thread="93" file="">
+<![LOG[[datasensor] Sending memory daily event with signal time 2/3/2026 12:42:12 PM and correlation Id e95f2389-12ee-4ceb-a8c8-f983901ea5f2]LOG]!><time="14:42:12.4242291" date="2-3-2026" component="DataCollection" context="" type="1" thread="65" file="">
+<![LOG[[datasensor] Sending cpu daily usage event with signal time 2/3/2026 12:42:12 PM and correlation id 0453fe45-e580-43ee-b094-dd4d424c14e7]LOG]!><time="14:42:12.4261564" date="2-3-2026" component="DataCollection" context="" type="1" thread="76" file="">
+<![LOG[[EventManager] Sending event IntuneManagementExtensionProvider.MemoryDailyEvent through 1DS SDK.]LOG]!><time="14:42:12.4291559" date="2-3-2026" component="DataCollection" context="" type="1" thread="65" file="">
+<![LOG[[EventManager] Sending event IntuneManagementExtensionProvider.CpuDailyEvent through 1DS SDK.]LOG]!><time="14:42:12.4291559" date="2-3-2026" component="DataCollection" context="" type="1" thread="76" file="">
+<![LOG[[EventManager] Finished queueing event IntuneManagementExtensionProvider.MemoryDailyEvent to the 1DS pipeline.]LOG]!><time="14:42:12.4301555" date="2-3-2026" component="DataCollection" context="" type="1" thread="65" file="">
+<![LOG[[EventManager] Finished queueing event IntuneManagementExtensionProvider.CpuDailyEvent to the 1DS pipeline.]LOG]!><time="14:42:12.4311567" date="2-3-2026" component="DataCollection" context="" type="1" thread="76" file="">
+<![LOG[[datasensor] memory usage data bookmark is ]LOG]!><time="14:42:12.4321582" date="2-3-2026" component="DataCollection" context="" type="1" thread="65" file="">
+<![LOG[[datasensor] application data bookmark is ]LOG]!><time="14:42:12.4331568" date="2-3-2026" component="DataCollection" context="" type="1" thread="76" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="14:47:03.3065125" date="2-3-2026" component="DataCollection" context="" type="1" thread="79" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="14:47:03.3074939" date="2-3-2026" component="DataCollection" context="" type="1" thread="79" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="14:47:03.3094928" date="2-3-2026" component="DataCollection" context="" type="1" thread="79" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="14:47:03.3104937" date="2-3-2026" component="DataCollection" context="" type="1" thread="79" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="14:47:03.3114932" date="2-3-2026" component="DataCollection" context="" type="1" thread="79" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="14:47:03.3124928" date="2-3-2026" component="DataCollection" context="" type="1" thread="79" file="">
+<![LOG[[EventManager] Sending event microsoft_sidecar_event_telemetry through 1DS SDK.]LOG]!><time="14:47:03.3144939" date="2-3-2026" component="DataCollection" context="" type="1" thread="79" file="">
+<![LOG[[EventManager] Finished queueing event microsoft_sidecar_event_telemetry to the 1DS pipeline.]LOG]!><time="14:47:03.3144939" date="2-3-2026" component="DataCollection" context="" type="1" thread="79" file="">
+<![LOG[[datasensor] existing bookmark for ApplicationData is <![CDATA[{"BookmarkText":"<BookmarkList>\r\n  <Bookmark Channel='Application' RecordId='2231' IsCurrent='true'\/>\r\n<\/BookmarkList>"}]]>]LOG]!><time="15:19:43.0586809" date="2-3-2026" component="DataCollection" context="" type="1" thread="59" file="">
+<![LOG[[datasensor] Querying AppCrash/Hang events]LOG]!><time="15:19:43.0596422" date="2-3-2026" component="DataCollection" context="" type="1" thread="59" file="">
+<![LOG[[datasensor] Calling sensor handler for AppCrash/Hang]LOG]!><time="15:19:43.1933419" date="2-3-2026" component="DataCollection" context="" type="1" thread="59" file="">
+<![LOG[[datasensor] get called, the data is 1]LOG]!><time="15:19:43.1933419" date="2-3-2026" component="DataCollection" context="" type="1" thread="59" file="">
+<![LOG[[datasensor] received application event, RecordId: 2239, 1001 , <![CDATA[<EventData xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <Data Name="Bucket"></Data>
+  <Data Name="BucketType">0</Data>
+  <Data Name="EventName">LiveKernelEvent</Data>
+  <Data Name="Response">Not available</Data>
+  <Data Name="CabId">0</Data>
+  <Data Name="P1">1a8</Data>
+  <Data Name="P2">a</Data>
+  <Data Name="P3">0</Data>
+  <Data Name="P4">0</Data>
+  <Data Name="P5">0</Data>
+  <Data Name="P6">10_0_26100</Data>
+  <Data Name="P7">0_0</Data>
+  <Data Name="P8">256_1</Data>
+  <Data Name="P9"></Data>
+  <Data Name="P10"></Data>
+  <Data Name="AttachedFiles">
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20260201-0609.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-398031-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.d3d9a7e2-3f7c-464a-8475-8c73925c959b.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.a54a4739-f668-4061-a2b8-04afbbf417de.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.9d0ca622-c63d-4c27-a58a-d70c0d9bf819.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.0755efee-0a6e-406d-9eda-8a6bc84b9ea9.tmp.xml</Data>
+  <Data Name="StorePath">\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_1a8_3748bd66a7bb3ae96eac533a61a9ac86d47cc_00000000_cab_7bd0051c-6279-425a-8210-21e9bbb1280c</Data>
+  <Data Name="AnalysisSymbol"></Data>
+  <Data Name="Rechecking">0</Data>
+  <Data Name="ReportId">7bd0051c-6279-425a-8210-21e9bbb1280c</Data>
+  <Data Name="ReportStatus">2055</Data>
+  <Data Name="HashedBucket"></Data>
+  <Data Name="CabGuid">0</Data>
+</EventData>
+]]>]LOG]!><time="15:19:43.1943409" date="2-3-2026" component="DataCollection" context="" type="1" thread="59" file="">
+<![LOG[[datasensor] Received a non AppCrash/Hang event from sensor library. EventId is: 1001]LOG]!><time="15:19:43.1943409" date="2-3-2026" component="DataCollection" context="" type="1" thread="59" file="">
+<![LOG[[datasensor] Dispatched batch of 0 Application crash/hang events to send]LOG]!><time="15:19:43.1943409" date="2-3-2026" component="DataCollection" context="" type="1" thread="59" file="">
+<![LOG[[datasensor] application data bookmark is <![CDATA[{"BookmarkText":"<BookmarkList>\r\n  <Bookmark Channel='Application' RecordId='2263' IsCurrent='true'\/>\r\n<\/BookmarkList>"}]]>]LOG]!><time="15:19:43.1943409" date="2-3-2026" component="DataCollection" context="" type="1" thread="59" file="">

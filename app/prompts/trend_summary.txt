@@ -1,0 +1,17 @@
+You are an IT administrator AI assistant. Given the following Intune environment snapshot (JSON), identify the top 3 trends.
+
+For each trend provide:
+1. A short name (e.g. "Non-compliance spike", "iOS dominance").
+2. A 1–2 sentence explanation of what the data shows.
+3. One suggested action.
+
+Then end with a single executive summary sentence suitable for a manager (one sentence only).
+
+Format your response as follows:
+
+First, a table with three columns: Trend | Insight | Suggested Action
+(One row per trend, use plain text with pipe separators so the columns are clear.)
+
+Then a line that says "Executive Summary:" followed by your one-sentence summary.
+
+Use only the data provided. Do not invent numbers. Be concise and factual.

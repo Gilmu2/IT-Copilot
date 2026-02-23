@@ -1,0 +1,57 @@
+Log Analysis Report
+Severity: High
+Log type: intune
+Lines analyzed: 300
+Errors: 22 | Warnings: 0
+Time range: <![LOG[cmd line for running po — <![LOG[Agent executor complete
+
+## Log Overview
+This appears to be Microsoft Intune Management Extension (IME) AgentExecutor logs showing execution of multiple PowerShell detection/remediation scripts from IMECache/HealthScripts and Content\DetectionScripts. Pre-scan indicates 300 lines with 22 errors and 0 warnings. Time range visible in provided lines is 2-3-2026 from 14:58:04 to 15:37:44.
+
+## Detected Patterns and Anomalies
+Policy / detection scripts
+- Repeated “script executed” but with non-empty PowerShell error output captured, indicating scripts are returning exit code 0 while still emitting errors:
+  - “Powershell exit code is 0” followed by “length of error=5407” and “error from script = Get-Service : Cannot find any service with service name 'CPDA'…”
+  - “Powershell script is successfully executed.” appears even when errors are present.
+- Missing/expected services: a detection script queries many services that do not exist on the endpoint, generating repeated ObjectNotFound errors:
+  - “Get-Service : Cannot find any service with service name 'CPDA'… FullyQualifiedErrorId : NoServiceFoundForGivenName…”
+  - Similar for: EPWD, TracSrvWrapper, CPEFR, EpabService, EPClientUIService, CPCompliance, vsmon, TESvc, DisknetClient, and “Full Disk Encryption”.
+- The script output explicitly marks these as false, consistent with “not installed/not present”:
+  - output = {"Endpoint_DisknetClient":false,"Endpoint_CPCompliance":false,"Endpoint_CPDA":false,...,"Endpoint_Encryption":false,...}
+
+Connectivity / proxy
+- Proxy auto-detection failures when IME “proxy poller” attempts to determine proxy settings:
+  - “DNS detection: WinHttpGetProxyForUrl call failed because of error 12180”
+  - “DHCP detection: WinHttpGetProxyForUrl call failed because of error 12180”
+- Proxy poller writes a proxy info file:
+  - “C:\\WINDOWS\\TEMP\\IntuneWindowsAgent_Proxy_AD_gilady.txt”
+
+Other
+- Multiple invocations of the same DetectionScript (f7e7ea67-7507-4243-8766-4e26045a4841_1.ps1). One run returns:
+  - “write output done. output = Detected”
+
+## Severity Assessment
+Overall: Medium. The largest issue is repeated script errors (missing services) that may cause incorrect compliance/detection results, plus proxy auto-detection failures that could affect Intune connectivity in some environments; however, scripts are still executing and returning exit code 0 in the shown runs.
+
+Top 3 most severe individual events
+1. High: Detection script generating large error output due to missing services (likely impacting compliance/detection accuracy): “length of error=5407” with multiple “Get-Service : Cannot find any service…” errors.
+2. Medium: Proxy auto-detection failures that may prevent proper routing to Intune endpoints: “WinHttpGetProxyForUrl call failed because of error 12180” (DNS and DHCP detection).
+3. Medium: Script success state masking errors (exit code 0 while emitting errors), which can lead to misleading reporting: “Powershell exit code is 0” + “error from script = …” + “Powershell script is successfully executed.”
+
+## Escalation Recommendations
+Immediate escalation to human
+- If the queried services (CPDA/EPWD/CPCompliance/vsmon/TESvc/DisknetClient/“Full Disk Encryption”, etc.) are required security/endpoint components in your environment, escalate to the endpoint security/app packaging owner because the device appears to be missing them or the script is checking incorrect service names.
+
+Can wait (but should be tracked)
+- Proxy auto-detection error 12180: escalate to network/proxy team only if this device is expected to use WPAD/auto-proxy and users/apps show connectivity/Intune check-in issues.
+
+Informational only
+- Routine AgentExecutor invocations and “Powershell script is successfully executed.” entries where no meaningful error content is present (e.g., “length of error=2” with blank “error from script =”).
+
+## Suggested Next Steps
+1. Identify what HealthScript “19be5129-22b1-4ed4-8c4f-774f17432907_9\\detect.ps1” is intended to validate (which product/services), and confirm whether those services should exist on this device class.
+2. If the services should exist, validate locally on the endpoint: check service list/install state for the named services and confirm the relevant security/endpoint agent is installed and healthy.
+3. If the services should NOT exist (wrong baseline), update the Intune remediation/detection script to handle absent services gracefully (e.g., -ErrorAction SilentlyContinue / try-catch) and/or target the script only to applicable devices to avoid generating errors/noise.
+4. Review the “Detected” result from DetectionScript “f7e7ea67-7507-4243-8766-4e26045a4841_1.ps1” in Intune reporting to understand what condition is being flagged and whether remediation is required.
+5. Investigate proxy auto-detection error 12180 on the endpoint (WinHTTP/WPAD): confirm whether auto-detect is required; if required, check WPAD/DHCP/DNS proxy discovery configuration and compare with expected corporate proxy settings.
+6. Re-run an IME sync/check-in after any fixes and confirm subsequent AgentExecutor runs no longer produce the repeated “NoServiceFoundForGivenName” errors.

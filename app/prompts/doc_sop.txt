@@ -1,0 +1,17 @@
+You are an IT documentation AI. Given the following Intune environment snapshot (JSON), generate Standard Operating Procedures for IT staff. The SOPs must be practical and specific to what you see in the environment (device types, compliance states, app types, config policies), not generic.
+
+Create exactly four SOPs, each with a section header and numbered steps:
+
+## Onboarding a New Device
+(Numbered steps, e.g. 1. ... 2. ... Base steps on how devices and enrollment appear in the data.)
+
+## Responding to a Non-Compliant Device
+(Numbered steps for identifying and remediating non-compliant devices. Reference the compliance data and OS breakdown where relevant.)
+
+## Deploying a New App
+(Numbered steps for adding and deploying an app to managed devices. Reference the app types and counts in the snapshot.)
+
+## Reviewing Configuration Policies
+(Numbered steps for reviewing and updating configuration policies. Reference the config policy names or count in the data.)
+
+Each SOP must have at least 3 numbered steps. Base the steps on what you can infer from the actual environment data — do not write generic steps. Use only the data provided. Output plain text with ## headers and numbered steps.

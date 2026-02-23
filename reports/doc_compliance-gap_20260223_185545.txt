@@ -1,0 +1,32 @@
+## Compliance Gap Summary
+Out of 500 total devices, 270 are non-compliant (54%), 190 are compliant (38%), and 40 are in an unknown state (8%). All reported non-compliance is attributed to Windows (270 non-compliant Windows devices); no non-compliance counts are provided for Linux (21 devices) or macOS (5 devices).
+
+## Root Cause Hypotheses
+1. Compliance is failing primarily on Windows due to missing/failed policy deployment or conflicts (e.g., “MDM Wins Over GPO” suggests GPO/MDM coexistence issues).
+2. Update compliance may be a dominant driver (multiple Windows Autopatch rings and a “CP_Update_policy” exist), implying patch baselines or ring targeting/assignment issues could be causing non-compliance.
+3. Some devices may not be receiving or correctly evaluating required security controls (numerous Defender-related policies exist), leading to non-compliance when Defender configuration/health requirements aren’t met.
+4. The 40 “unknown” devices likely reflect devices not checking in, unenrolled/stale records, or unsupported/insufficient compliance reporting for certain device types/OS—exact cause not provided.
+
+## Gap-by-Gap Breakdown
+1. High non-compliance rate concentrated in Windows
+   - Description: A majority of devices are non-compliant, and all tracked non-compliance is on Windows, indicating broad policy/compliance evaluation failures on that OS population.
+   - Affected scope: 270 Windows devices (out of 474 Windows devices)
+   - Priority: High
+
+2. Unknown compliance state population
+   - Description: Devices in “unknown” state reduce assurance and may represent unmanaged, stale, or non-reporting endpoints that are not being evaluated.
+   - Affected scope: 40 devices (OS not specified)
+   - Priority: High
+
+3. Potential configuration/policy targeting complexity (risk of gaps or conflicting settings)
+   - Description: 33 configuration policies with multiple overlapping Windows update ring policies (Autopatch rings across standard/AVD/VDI) plus “MDM Wins Over GPO” suggests a complex policy landscape that can cause mis-targeting, conflicts, or inconsistent outcomes.
+   - Affected scope: Windows device population (474 devices) (exact impacted count not provided)
+   - Priority: Medium
+
+## Remediation Roadmap
+1. Triage Windows non-compliance at scale: in Intune, identify the top compliance policy rule(s) and specific setting(s) causing failure on the 270 Windows devices (export non-compliance reasons/report for those devices) and prioritize the highest-frequency failure reason.
+2. Resolve “unknown” devices: investigate the 40 unknown endpoints for last check-in/enrollment state, ownership, and management channel; retire stale device objects and remediate non-reporting devices (reenroll/restart MDM services/check connectivity) so they produce a compliant/non-compliant result.
+3. Validate assignment and exclusivity of Windows update policies: review targeting for “CP_Update_policy” and all Windows Autopatch ring policies (standard/AVD/VDI/Test/Ring1-3/Last) to ensure devices are assigned to exactly one intended ring set (per device type) and remove overlapping assignments.
+4. Check for MDM vs GPO conflicts on Windows: use the presence of “MDM Wins Over GPO” as a signal to confirm where GPO still applies; remediate by consolidating settings into Intune where required and ensuring intended precedence (or removing conflicting GPOs) for the most common failing controls.
+5. Confirm Defender policy deployment consistency: for Windows devices, validate successful application of Defender-related policies (as listed) on affected cohorts and remediate any deployment failures (e.g., assignment scope, licensing/agent presence, or conflicting configurations).
+6. Re-run compliance reporting after changes: monitor compliance trend (non-compliant/unknown counts) and iterate on the next most common non-compliance reason until Windows non-compliance materially decreases.
